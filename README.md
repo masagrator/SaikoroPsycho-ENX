@@ -52,7 +52,7 @@ Assets are available only from Release page.
 	- Restored most of removed/altered texts affected by censorship
     - redone almost all scenario textures
     - translated textures unique to Switch release
-    - replaced ascii glyphs in original font with glyphs rendered with Noto Sans Mono ExtraCondensed Regular and Bold
+    - replaced ascii glyphs in original fonts with glyphs rendered with Noto Sans Mono ExtraCondensed Regular and Bold
 - Scenario files were altered to not use precalculated animations for endings names and TRUE END animated texts, instead using message text rendering. Reason is because there was not enough informations about how to decode animation table included with each file representing one text.
 
 # Thanks to
