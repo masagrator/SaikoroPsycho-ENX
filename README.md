@@ -1,8 +1,8 @@
 # DeiGratiaENX
 `Saikoro Psycho - Seventh Heaven -` (サイコロサイコ -セブンスヘブン-) English translation mod for Nintendo Switch
 
-This translation mod is based on PC mod from `Tico Translations` and `ijedi1234` that you can find here:<br>
-https://tico-tl.tumblr.com/post/650393064565800960/dice-psycho-aka-saikoro-saiko
+This translation mod is based on PC mods from `Tico Translations` and `ijedi1234` that you can find here:<br>
+https://tico-tl.tumblr.com/post/650393064565800960/dice-psycho-aka-saikoro-saiko <br>
 https://ijedi1234.itch.io/dice-psycho-english-patch
 
 # Installation
