@@ -1,0 +1,1508 @@
+[
+	{
+		"LABEL": "0x35F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After my morning routines, I left the house early."
+	},
+	{
+		"LABEL": "0x3B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm gonna have to talk to that girl again today."
+	},
+	{
+		"LABEL": "0x405",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Then I'm gonna pat her on her head until her neatly tied hair is all messed up!"
+	},
+	{
+		"LABEL": "0x47A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I arrived at the school in high spirits, but I couldn't find Sycoe at the usual flower bed."
+	},
+	{
+		"LABEL": "0x4ED",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Um."
+	},
+	{
+		"LABEL": "0x526",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sycoe... didn't come to school today?"
+	},
+	{
+		"LABEL": "0x56F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was somewhat out of sorts, so I dejectedly trotted off to class."
+	},
+	{
+		"LABEL": "0x61C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Suddenly, during class, a bad feeling came over me."
+	},
+	{
+		"LABEL": "0x673",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Don't tell me she's avoiding me on purpose?"
+	},
+	{
+		"LABEL": "0x6D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If that's the case, I'm quite shocked. I was pretty confident that she liked me."
+	},
+	{
+		"LABEL": "0x74B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, she might just be resting today. I bet she is... right? That must be all..."
+	},
+	{
+		"LABEL": "0x7C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not like we're lovers, we're barely even friends."
+	},
+	{
+		"LABEL": "0x81B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I used to not care about others very much."
+	},
+	{
+		"LABEL": "0x878",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now it's the opposite, I can't help but be worried for Sycoe."
+	},
+	{
+		"LABEL": "0x9B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Is it because she's cute?"
+	},
+	{
+		"LABEL": "0x9F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or because if I helped her I might get something in return...?"
+	},
+	{
+		"LABEL": "0xA5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Is it because I'm playing God?"
+	},
+	{
+		"LABEL": "0xAAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Or..."
+	},
+	{
+		"LABEL": "0xAE6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...am I acting cool to boost my ego, by trying to help that poor girl?"
+	},
+	{
+		"LABEL": "0xB5B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I shook my head fervently. I've got to get those weird ideas out of my head..."
+	},
+	{
+		"LABEL": "0xC0F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─It's finally lunchtime."
+	},
+	{
+		"LABEL": "0xC58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Time seems to go more slowly when that girl's not around."
+	},
+	{
+		"LABEL": "0xCBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was curious and asked the person in the next class about Sycoe, and they said she often missed classes."
+	},
+	{
+		"LABEL": "0xD2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I see, so it's just one of those days, is it?"
+	},
+	{
+		"LABEL": "0xD77",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They said they didn't know why she took the day off today, so I didn't get to know the details... but just knowing that was a big help."
+	},
+	{
+		"LABEL": "0xEA7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xEB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Looks like Sycoe-chan took the day off? I heard from the guy next door.\""
+	},
+	{
+		"LABEL": "0xFB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru calls out to me in his usual tone of voice."
+	},
+	{
+		"LABEL": "0xFFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He was still as smug and snobby as ever. He put his weight against the wall."
+	},
+	{
+		"LABEL": "0x1045",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1082",
+				"STRING": "Seems like it."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1082",
+				"STRING": "What happened, I wonder?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x113C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x114A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...So you don't know either, huh. I thought you might have heard something from the person herself.\""
+	},
+	{
+		"LABEL": "0x1256",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmph. What the hell man... don't talk like you know more than I do. I'm a little peeved."
+	},
+	{
+		"LABEL": "0x1373",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1381",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Did you know that there was a fire near the Usatoria yesterday?\""
+	},
+	{
+		"LABEL": "0x147B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, come to think of it... the guys in my class were talking about that rumour this morning."
+	},
+	{
+		"LABEL": "0x14F2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I recall, a fire broke out on the ground floor of a wooden apartment building or something like that..."
+	},
+	{
+		"LABEL": "0x15F7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1605",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I only heard about it from others, so I don't know if it's true or not...\""
+	},
+	{
+		"LABEL": "0x17B4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x17C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But they're saying that it was Sycoe's place that burned down.\""
+	},
+	{
+		"LABEL": "0x18A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As soon as I heard those words, my brain stopped thinking for a moment."
+	},
+	{
+		"LABEL": "0x1905",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x1936",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Eh?"
+	},
+	{
+		"LABEL": "0x196B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha... What the hell...!?"
+	},
+	{
+		"LABEL": "0x1A31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I could even start thinking, I was already running out of the classroom."
+	},
+	{
+		"LABEL": "0x1A8E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have to confirm it...! That's the only thing driving me right now."
+	},
+	{
+		"LABEL": "0x1AF7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thinking about it, I could have made a phone call, but somehow my body acted first before my head..."
+	},
+	{
+		"LABEL": "0x1BB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It took me several tens of minutes to get there, and the place was swarming with onlookers."
+	},
+	{
+		"LABEL": "0x1C13",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The apartment where Sycoe lived had been cruelly burned down to a crisp..."
+	},
+	{
+		"LABEL": "0x1C7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In such a condition, people can't live there anymore."
+	},
+	{
+		"LABEL": "0x1CD3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, what happened? Sycoe... where's Sycoe? Is she alive? Or..."
+	},
+	{
+		"LABEL": "0x1D40",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With trembling hands, I pulled out my phone and called her."
+	},
+	{
+		"LABEL": "0x1DB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ring ring ring..."
+	},
+	{
+		"LABEL": "0x1E0A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ring ring ring..."
+	},
+	{
+		"LABEL": "0x1E69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The number you have dialed is not available right now.\""
+	},
+	{
+		"LABEL": "0x1ECC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My chest is filled with a sense of despair and helplessness, and my phone slipped out of my hand."
+	},
+	{
+		"LABEL": "0x1F55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The phone fell to the ground, and the screen cracked a little."
+	},
+	{
+		"LABEL": "0x1FC2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't connect... don't tell me, she really is...?"
+	},
+	{
+		"LABEL": "0x200F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why...!? Isn't this too much...?"
+	},
+	{
+		"LABEL": "0x206E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't confirm her safety, and then several days passed by in a blur."
+	},
+	{
+		"LABEL": "0x2357",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─A few days since then."
+	},
+	{
+		"LABEL": "0x23A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After class, I left the school and headed straight home."
+	},
+	{
+		"LABEL": "0x2403",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ever since I lost Sycoe, I couldn't get in the mood to do anything, I couldn't calm down."
+	},
+	{
+		"LABEL": "0x2478",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though Nana and Yukimaru invited me to play, I didn't feel like it, so I turned them down."
+	},
+	{
+		"LABEL": "0x24F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...On a dimly lit road."
+	},
+	{
+		"LABEL": "0x2530",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Gazing at my shadow cast by the setting sun, I continued step by step."
+	},
+	{
+		"LABEL": "0x2597",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I bumped into a stranger and almost fell over, but that didn't matter."
+	},
+	{
+		"LABEL": "0x25F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There was a gust of wind, and then I looked up."
+	},
+	{
+		"LABEL": "0x2651",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "………?"
+	},
+	{
+		"LABEL": "0x2686",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't believe my eyes when I spotted a familiar girl across the road."
+	},
+	{
+		"LABEL": "0x26FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sycoe...?!"
+	},
+	{
+		"LABEL": "0x27C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The girl had a blank expression on her face, she was hunched over and trudging along."
+	},
+	{
+		"LABEL": "0x2830",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hadn't seen her for a few days, so not much should have changed, but there was something decidedly different about her."
+	},
+	{
+		"LABEL": "0x28A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She was dressed from head to toe in black mourning clothes."
+	},
+	{
+		"LABEL": "0x28E0",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x291B",
+				"STRING": "Sycoe...!!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x291B",
+				"STRING": "You were safe?!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x2935",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I quickly ran over to her and without thinking, hugged her body with my two hands."
+	},
+	{
+		"LABEL": "0x2A36",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x2A44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A-Ah... It hurts, Metarou-kun...\""
+	},
+	{
+		"LABEL": "0x2B27",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was worried about you...! I really thought you were dead, and I..."
+	},
+	{
+		"LABEL": "0x2B92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I said it, I felt like my tears were about to overflow."
+	},
+	{
+		"LABEL": "0x2C8B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x2C99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm sorry... b-but we had a promise. You shouldn't come near Sycoe again, right?\""
+	},
+	{
+		"LABEL": "0x2D9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I won't recognize that. I don't remember making any promises like that."
+	},
+	{
+		"LABEL": "0x2E0D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I glared at her strongly, and she gave me an uneasy look."
+	},
+	{
+		"LABEL": "0x2F10",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x2F1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Fueh...! A-are you angry...?\""
+	},
+	{
+		"LABEL": "0x3097",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x30A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Me too, I wanted to see you as well.\""
+	},
+	{
+		"LABEL": "0x3232",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x3240",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But Nana...\""
+	},
+	{
+		"LABEL": "0x3311",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Nana?"
+	},
+	{
+		"LABEL": "0x3348",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why's her name brought up? She's not related to this, is she?"
+	},
+	{
+		"LABEL": "0x3457",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x3465",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"She told me not to see Metarou-kun anymore... So, I can't meet you anymore...\""
+	},
+	{
+		"LABEL": "0x3581",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x35B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At that moment, my hands were shaking with anger."
+	},
+	{
+		"LABEL": "0x3609",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't even find the words anymore. Unforgivable... Simply unforgivable."
+	},
+	{
+		"LABEL": "0x366C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Look. I'll choose for myself who I'll get involved with. Not Nana! Me!"
+	},
+	{
+		"LABEL": "0x36DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I told her that, she gave a small nod, her eyes tearing up."
+	},
+	{
+		"LABEL": "0x3742",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...That being said, why was Sycoe wearing mourning clothes?"
+	},
+	{
+		"LABEL": "0x379C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "D-don't tell me..."
+	},
+	{
+		"LABEL": "0x37C0",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x510E",
+				"STRING": "Are you sending those two people off?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x3807",
+				"STRING": "Could it be again... that?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x38C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x38CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Mom and Dad got caught in a fire... and...\""
+	},
+	{
+		"LABEL": "0x3A66",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x3A74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's my... fault!\""
+	},
+	{
+		"LABEL": "0x3BED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x3BFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou-kun, what should I do? ...I'll cause trouble for people just by being alive.\""
+	},
+	{
+		"LABEL": "0x3D00",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tears started to well up in Sycoe's eyes."
+	},
+	{
+		"LABEL": "0x3DF5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x3E03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It would be better if I wasn't around...\""
+	},
+	{
+		"LABEL": "0x4218",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x4226",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It would be better if I died instead...!!!!\""
+	},
+	{
+		"LABEL": "0x4311",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't say such ominous things!"
+	},
+	{
+		"LABEL": "0x4358",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no such thing as being cursed with bad luck, and I don't believe in superstitions."
+	},
+	{
+		"LABEL": "0x445D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x446B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No one would be sad if I died anyway...\""
+	},
+	{
+		"LABEL": "0x455A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even after hearing my passionate words, she remained depressed."
+	},
+	{
+		"LABEL": "0x465B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x4669",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, if... I'm dead...\""
+	},
+	{
+		"LABEL": "0x47E2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x47F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Will Metarou-kun... be sad...?\""
+	},
+	{
+		"LABEL": "0x4971",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x497F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Will you cry for my sake...?\""
+	},
+	{
+		"LABEL": "0x4A5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Blood pours out of Sycoe's mouth."
+	},
+	{
+		"LABEL": "0x4B51",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x4B5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Cough... Hey, I... Metarou-kun...\""
+	},
+	{
+		"LABEL": "0x4C4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't even realize it at the time."
+	},
+	{
+		"LABEL": "0x4D45",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x4D53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I... love y....\""
+	},
+	{
+		"LABEL": "0x4E20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I never thought that would be her last words."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Suicide by Poison」"
+	},
+	{
+		"LABEL": "0x51C8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x51D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah... It's my mom and dad's funeral today.\""
+	},
+	{
+		"LABEL": "0x52D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With a vacant expression on her face, Sycoe looked down at the ground."
+	},
+	{
+		"LABEL": "0x5322",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her parents died in the fire. And only Sycoe was saved..."
+	},
+	{
+		"LABEL": "0x53A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Was this also the doing of her misfortune? The power of misfortune that engulfs those around her..."
+	},
+	{
+		"LABEL": "0x5418",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you look closely, I could see that Sycoe's cheeks seemed to be gaunter than before."
+	},
+	{
+		"LABEL": "0x5481",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't say anything..."
+	},
+	{
+		"LABEL": "0x54C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just watched her in silence."
+	},
+	{
+		"LABEL": "0x5507",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure that my cliched words can't describe her suffering."
+	},
+	{
+		"LABEL": "0x5634",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x5642",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I-I know you're... worried about me, so thank you. ...But, I'll be fine.\""
+	},
+	{
+		"LABEL": "0x5745",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seeing the worried look on my face, she loosened her mouth into a grin."
+	},
+	{
+		"LABEL": "0x57AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She might think she's laughing like she always does, but I can tell she's pushing herself."
+	},
+	{
+		"LABEL": "0x58BF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x58CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've always been like this, so... ahahaha. I don't know why, but this seems normal to me now.\""
+	},
+	{
+		"LABEL": "0x59E0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no way you're okay. It would be crazy to lose your parents and be okay with it."
+	},
+	{
+		"LABEL": "0x5A3C",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x5A8F",
+				"STRING": "You don't need force yourself with me."
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x5A8F",
+				"STRING": "You don't look okay at all."
+			}
+		]
+	},
+	{
+		"LABEL": "0x5B49",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x5B57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Ah... no way.\""
+	},
+	{
+		"LABEL": "0x5C28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She made an expression as if she got caught lying."
+	},
+	{
+		"LABEL": "0x5D1D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x5D2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"This is why... this is why I'm so... useless.\""
+	},
+	{
+		"LABEL": "0x5EC2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x5ED0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because I'm insecure, because I have low self-esteem, I can't even smile properly. Really, I'm so dumb...\""
+	},
+	{
+		"LABEL": "0x5FF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She muttered a few self-deprecating words that were painful to hear."
+	},
+	{
+		"LABEL": "0x605B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't do anyting but watch Sycoe as she became a shell of her former self."
+	},
+	{
+		"LABEL": "0x6313",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "…"
+	},
+	{
+		"LABEL": "0x6342",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x6373",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "………"
+	},
+	{
+		"LABEL": "0x63A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a business hotel room, I was lost in thought."
+	},
+	{
+		"LABEL": "0x6407",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mom and Dad."
+	},
+	{
+		"LABEL": "0x644E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They both died, leaving me alone. ...They were burnt to death."
+	},
+	{
+		"LABEL": "0x64CD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x64DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haha, you both left me... now you don't need to worry about anything. That's not fair..."
+	},
+	{
+		"LABEL": "0x6552",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'd leave with them too if I could, but I couldn't do it..."
+	},
+	{
+		"LABEL": "0x65BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had nowhere to go as I had lost my home and had no relatives who would help."
+	},
+	{
+		"LABEL": "0x6624",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course, no relatives would take me in."
+	},
+	{
+		"LABEL": "0x667B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My relatives hated me, saying I was a cursed child... Well, it was only natural."
+	},
+	{
+		"LABEL": "0x66F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have no home, no money, no family... nothing."
+	},
+	{
+		"LABEL": "0x6751",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The only thing left is...... a huge amount of debt left by Mom and Dad."
+	},
+	{
+		"LABEL": "0x67B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could probably have chosen not to inherit it."
+	},
+	{
+		"LABEL": "0x6807",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I didn't..."
+	},
+	{
+		"LABEL": "0x684E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was afraid I would lose my place in the world."
+	},
+	{
+		"LABEL": "0x68A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Without any relatives, only \"they\" would take care of me."
+	},
+	{
+		"LABEL": "0x690E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was put in the care of the debt collectors..."
+	},
+	{
+		"LABEL": "0x6963",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I inherited the debts of my parents and this body of mine would be used to pay the debts."
+	},
+	{
+		"LABEL": "0x69E6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x69F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's going to happen to me? ...Metarou-kun, I'm scared. Help me...\""
+	},
+	{
+		"LABEL": "0x6A6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm heading to the city tomorrow."
+	},
+	{
+		"LABEL": "0x6AB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It seems like I will be forced to work at \"that place\" in that town."
+	},
+	{
+		"LABEL": "0x6B14",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I haven't been told what kind of job it is yet, but I'm sure it's not a good job. Nightlife entertainment... Cabaret... Sex industry..."
+	},
+	{
+		"LABEL": "0x6B83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "These words, that I felt like I had no connection to, came to mind. ...No matter what the job is, I have no choice but to do it now."
+	},
+	{
+		"LABEL": "0x6BF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't escape until I've paid off all my debts..."
+	},
+	{
+		"LABEL": "0x6C57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The enormous debt the two left behind."
+	},
+	{
+		"LABEL": "0x6C9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Somehow, I thought it was someone else's problem."
+	},
+	{
+		"LABEL": "0x6CEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It never came to mind that I would have to pay it back all on my own..."
+	},
+	{
+		"LABEL": "0x6D50",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had such a naive idea that Mom and Dad would be responsible for paying it back..."
+	},
+	{
+		"LABEL": "0x6DCD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was still just a child..."
+	},
+	{
+		"LABEL": "0x70B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Under the deep blue starry sky."
+	},
+	{
+		"LABEL": "0x70FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A woman illuminated by the twinkling stars was talking with a girl."
+	},
+	{
+		"LABEL": "0x716D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x717B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...What is happiness, anyway?\""
+	},
+	{
+		"LABEL": "0x71E0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x71EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"My family is poor, and I sometimes wished I had more money.\""
+	},
+	{
+		"LABEL": "0x7275",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7283",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But I feel like it's not just about having lots of money.\""
+	},
+	{
+		"LABEL": "0x7308",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7316",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is that really... enough to say I'm happy? Just living a life of luxury...?\""
+	},
+	{
+		"LABEL": "0x739F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x73AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But I've also heard that when your life is well provided for, you'll feel quite satisfied.\""
+	},
+	{
+		"LABEL": "0x7438",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7448",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Fufu. Isn't that up to each person to decide?\""
+	},
+	{
+		"LABEL": "0x74BB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x74C9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please tell me, I... can't figure it out on my own.\""
+	},
+	{
+		"LABEL": "0x753E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x754E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm sorry, I can't tell you about that.\""
+	},
+	{
+		"LABEL": "0x75BF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x75CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Just as others cannot know what is your happiness, you cannot know my happiness.\""
+	},
+	{
+		"LABEL": "0x7662",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7672",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The answer lies only within you, my dear.\""
+	},
+	{
+		"LABEL": "0x76DD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x76EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Right. I guess I'll just have to look for it myself...\""
+	},
+	{
+		"LABEL": "0x7766",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7774",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But I don't know. What is it I'm looking for? What is it I want?\""
+	},
+	{
+		"LABEL": "0x77F9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7807",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wonder if one day I'll find it... when I grow up.\""
+	},
+	{
+		"LABEL": "0x7884",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7894",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, there's plenty of time. There's no need to rush, dear.\""
+	},
+	{
+		"LABEL": "0x7913",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7923",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've been searching for it too just like you.\""
+	},
+	{
+		"LABEL": "0x799A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x79AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What is it that fills your heart... with true satisfaction?\""
+	},
+	{
+		"LABEL": "0x7A27",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7A37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I met someone, and at the end of a long journey, I found him.\""
+	},
+	{
+		"LABEL": "0x7AB4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7AC2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So, what was your happiness, Nenene-san?\""
+	},
+	{
+		"LABEL": "0x7C17",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x7C29",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"My happiness is something that is without form.\""
+	},
+	{
+		"LABEL": "0x7C96",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x7CA8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"All this time, it was so close, so close... and I didn't even notice it.\""
+	},
+	{
+		"LABEL": "0x7D47",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x7D55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The happiness has always been there...?\""
+	},
+	{
+		"LABEL": "0x7DB6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x7DC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes. I'm sure it's the same for you, isn't it?\""
+	},
+	{
+		"LABEL": "0x7F1D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x7F2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's always so close to us that we don't realize how important it is.\""
+	},
+	{
+		"LABEL": "0x7FAC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x7FBE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You only know how precious it is when you lose it.\""
+	}
+]

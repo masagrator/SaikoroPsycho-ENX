@@ -1,0 +1,2723 @@
+[
+	{
+		"LABEL": "0x35F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─It's morning."
+	},
+	{
+		"LABEL": "0x396",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As soon as I take my seat in the classroom, Nana comes over to me."
+	},
+	{
+		"LABEL": "0x49E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x4AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, good morning...\""
+	},
+	{
+		"LABEL": "0x57E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...What happened? You look really down today. Did something bad happen to you?"
+	},
+	{
+		"LABEL": "0x69B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x6A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou, h-hey... there's something I want to talk to you about.\""
+	},
+	{
+		"LABEL": "0x83C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x84A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"And, you can't tell anyone... no one else, got it?\""
+	},
+	{
+		"LABEL": "0x936",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yeah, of course. I'm always on your side."
+	},
+	{
+		"LABEL": "0xA33",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xA41",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, thank you... You know...\""
+	},
+	{
+		"LABEL": "0xBC2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xBD0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Lately, I feel like someone's been following me all the time.\""
+	},
+	{
+		"LABEL": "0xCC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell. Isn't that a stalker then?"
+	},
+	{
+		"LABEL": "0xDC9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xDD7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yeah, about that. Well, I have an idea of who it is but...\""
+	},
+	{
+		"LABEL": "0xEC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm stuck. What should I do in a situation like this...?"
+	},
+	{
+		"LABEL": "0xF21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The first time dealing with something like that is especially troublesome. If you make a bad move, it can become dangerous..."
+	},
+	{
+		"LABEL": "0xF7D",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xFC8",
+				"STRING": "I'll wait for you until you finish your job."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xFC8",
+				"STRING": "I'll come get you."
+			}
+		]
+	},
+	{
+		"LABEL": "0xFE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For the time being, I decided to wait for her since she had to go to her part-time job today."
+	},
+	{
+		"LABEL": "0x1051",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then if I walk her home at night, she'll be safe, at least for a while."
+	},
+	{
+		"LABEL": "0x115E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x116C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Really? Thank you... that's such a relief. I will feel so much safer with you...\""
+	},
+	{
+		"LABEL": "0x1276",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Still, what has made Nana, who has a mental toughness like steel, so frightened?"
+	},
+	{
+		"LABEL": "0x12E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What, did something actually happen?"
+	},
+	{
+		"LABEL": "0x13D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x13E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...It's strange.\""
+	},
+	{
+		"LABEL": "0x154F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x155D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's strange! Saiko-chan... there's definitely something off about her!\""
+	},
+	{
+		"LABEL": "0x1653",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana's hands were shaking, and her face was pale."
+	},
+	{
+		"LABEL": "0x16AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just what in the world had happened...!?"
+	},
+	{
+		"LABEL": "0x179B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x17A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Didn't we go on a date to a theme park last week?\""
+	},
+	{
+		"LABEL": "0x1930",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x193E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You know, when we went, it just so happened that there was a one-day anniversary event...\""
+	},
+	{
+		"LABEL": "0x1A28",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1A61",
+				"STRING": "And what's the issue?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1A61",
+				"STRING": "...???"
+			}
+		]
+	},
+	{
+		"LABEL": "0x1B1B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x1B29",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"This bunny and chick strap is only available at that event, and only on that one day!\""
+	},
+	{
+		"LABEL": "0x1CDE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x1CEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You saw it too, didn't you? It was on Saiko's flip phone, and she said that she bought it because it happened to be the same as mine...\""
+	},
+	{
+		"LABEL": "0x1EB5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x1EC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So... on that day, when I bought this, Saiko-chan was watching us all along...!?\""
+	},
+	{
+		"LABEL": "0x2072",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2080",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"How long has she been behind our backs, following us...?!\""
+	},
+	{
+		"LABEL": "0x2219",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2227",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What should I do, I'm... I'm sure that girl is stalking me!\""
+	},
+	{
+		"LABEL": "0x23C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x23D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Help me, Metarou... I'm scared! I might get killed for real...\""
+	},
+	{
+		"LABEL": "0x2575",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2583",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I can't say anything, because I'm afraid that if I push her away now, she might do something... in retaliation.\""
+	},
+	{
+		"LABEL": "0x274C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x275A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I finally landed this great part-time job, and I don't want to quit...\""
+	},
+	{
+		"LABEL": "0x2858",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thought she was exaggerating a bit, but then, if something happened, then it'd be already too late."
+	},
+	{
+		"LABEL": "0x28CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Since she liked her work, and since I saw her trying her best, it would be hard to tell her to quit."
+	},
+	{
+		"LABEL": "0x29F8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2A06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"And somehow, it's kinda like... I'm looking at myself when I was little...\""
+	},
+	{
+		"LABEL": "0x2B9B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2BA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm... not Saiko-chan... right? I'm different, right?\""
+	},
+	{
+		"LABEL": "0x2D34",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2D42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm me, right...?!\""
+	},
+	{
+		"LABEL": "0x2E1B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I grabbed Nana's shoulders as her eyes wavered, and called her back to her senses."
+	},
+	{
+		"LABEL": "0x2E6B",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2EB2",
+				"STRING": "You are you!!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x2EB2",
+				"STRING": "You're my precious girlfriend Nana!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x2F6C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2F7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah...\""
+	},
+	{
+		"LABEL": "0x30DD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x30EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, thanks, I've been feeling kinda off lately... Sometimes it feels like my head's spinning.\""
+	},
+	{
+		"LABEL": "0x31FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana, who had been agitated up till now, managed to regain her composure and took a seat."
+	},
+	{
+		"LABEL": "0x326F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I'm worried about you, I hope you don't collapse during class."
+	},
+	{
+		"LABEL": "0x32CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've got to protect Nana."
+	},
+	{
+		"LABEL": "0x3585",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─After school."
+	},
+	{
+		"LABEL": "0x35BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Class is over, and I walked Nana to her workplace. And then, I found a good place to kill time in."
+	},
+	{
+		"LABEL": "0x3633",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Time flew by as I browsed at a nearby used bookstore and enjoyed a cup of coffee at a coffee shop."
+	},
+	{
+		"LABEL": "0x36CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so, it's almost time for Nana's part-time job to end today."
+	},
+	{
+		"LABEL": "0x3779",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was told to wait in front of the back door of the restaurant, so I decided to wait at the designated spot."
+	},
+	{
+		"LABEL": "0x37EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But, there was someone already there. Apparently a customer had arrived before me."
+	},
+	{
+		"LABEL": "0x3853",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wait, that's..."
+	},
+	{
+		"LABEL": "0x389A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The moment I caught sight of her, I stopped dead in my tracks."
+	},
+	{
+		"LABEL": "0x3967",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Saiko..."
+	},
+	{
+		"LABEL": "0x399C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's that girl doing here?"
+	},
+	{
+		"LABEL": "0x39E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't tell me she's... waiting for Nana? It can't be, right? There's no way."
+	},
+	{
+		"LABEL": "0x3A4A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Casually, I imitated her and leaned against the wall."
+	},
+	{
+		"LABEL": "0x3AAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I glanced at her, but she didn't show any reaction."
+	},
+	{
+		"LABEL": "0x3B02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe she didn't even notice I'd arrived..."
+	},
+	{
+		"LABEL": "0x3B63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, what should I do...?"
+	},
+	{
+		"LABEL": "0x3BA8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The very person that Nana's afraid of is here right now."
+	},
+	{
+		"LABEL": "0x3BFF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If she stays here, she'll run into Nana after she finishes her part-time job."
+	},
+	{
+		"LABEL": "0x3C7C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What should I do? Suppose I try to drive her out from here."
+	},
+	{
+		"LABEL": "0x3CDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm afraid that if I were to make a poor impression on this mysterious girl, my life would be in jeopardy."
+	},
+	{
+		"LABEL": "0x3DB6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x3DC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Who...\""
+	},
+	{
+		"LABEL": "0x3DFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I felt Saiko speak and turned to her, only to find her mouth slightly agape."
+	},
+	{
+		"LABEL": "0x3E90",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x3E9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Who are you...?\""
+	},
+	{
+		"LABEL": "0x3EDD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What do you mean, who...? I introduced myself to you at the restaurant the other day, don't you remember?"
+	},
+	{
+		"LABEL": "0x3F4A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "First of all, since you asked, I'll tell you my name."
+	},
+	{
+		"LABEL": "0x3FF9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4007",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I see, so you're...\""
+	},
+	{
+		"LABEL": "0x404E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The corners of her narrow lips lifted slightly."
+	},
+	{
+		"LABEL": "0x40B3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x40C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So, what are you doing here?\""
+	},
+	{
+		"LABEL": "0x411A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's my line..."
+	},
+	{
+		"LABEL": "0x415A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That flashed through my mind for a second, but for the time being I'll humour you with a reply."
+	},
+	{
+		"LABEL": "0x41AC",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x41ED",
+				"STRING": "It's none of your business."
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x4260",
+				"STRING": "I'm waiting for someone."
+			}
+		]
+	},
+	{
+		"LABEL": "0x421B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4229",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Same here.\""
+	},
+	{
+		"LABEL": "0x428E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x429C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What a coincidence, I'm waiting for someone, too.\""
+	},
+	{
+		"LABEL": "0x4341",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x4372",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Silence."
+	},
+	{
+		"LABEL": "0x43A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She didn't turn her eyes toward me, but I still feel like I'm being stared at..."
+	},
+	{
+		"LABEL": "0x4418",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was scared by the strange atmosphere she was giving off, and my body was covered in cold sweat."
+	},
+	{
+		"LABEL": "0x449B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why does this girl act like she's stalking Nana?"
+	},
+	{
+		"LABEL": "0x4502",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What could she be after..."
+	},
+	{
+		"LABEL": "0x4543",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't tell me she's a lesbian? Not just a lesbian, but a psycho lesbian?"
+	},
+	{
+		"LABEL": "0x45BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A disturbing word pops into my head, but of course I don't say it out loud."
+	},
+	{
+		"LABEL": "0x4629",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had been absentmindedly thinking about that when..."
+	},
+	{
+		"LABEL": "0x4757",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it, she was turning my way and smiled at me."
+	},
+	{
+		"LABEL": "0x4856",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4864",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Do you want to know?\""
+	},
+	{
+		"LABEL": "0x4931",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Wha..."
+	},
+	{
+		"LABEL": "0x4966",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Weren't you supposed to be expressionless..."
+	},
+	{
+		"LABEL": "0x49B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it, she turned her head towards me and gave me a creepy smile."
+	},
+	{
+		"LABEL": "0x4AC4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4AD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What kind of relationship I have... with Nana-senpai?\""
+	},
+	{
+		"LABEL": "0x4BC0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The moment I heard the word \"Nana-senpai\", my heart jumped with a thump."
+	},
+	{
+		"LABEL": "0x4C28",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I knew it, this girl was waiting for..."
+	},
+	{
+		"LABEL": "0x4C62",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 8,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x7577",
+				"STRING": "You're waiting for Nana."
+			},
+			{
+				"UNK0": 1,
+				"ID": 9,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x4CB7",
+				"STRING": "Saiko, you're not waiting for anyone."
+			}
+		]
+	},
+	{
+		"LABEL": "0x4D91",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4D9F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You are correct. I'm only here to stall you.\""
+	},
+	{
+		"LABEL": "0x4E94",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hah?"
+	},
+	{
+		"LABEL": "0x4F69",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x4F77",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nana-senpai and I are in on this together, you know.\""
+	},
+	{
+		"LABEL": "0x5058",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I rolled my eyes, not sure what she meant by that."
+	},
+	{
+		"LABEL": "0x5159",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x5167",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...You still don't get it, do you?\""
+	},
+	{
+		"LABEL": "0x52E2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x52F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"If you're looking for Nana-senpai, she should be in bed with another man right now.\""
+	},
+	{
+		"LABEL": "0x53DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x5410",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "…………"
+	},
+	{
+		"LABEL": "0x54E5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x54F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You look like you don't know what I'm talking about.\""
+	},
+	{
+		"LABEL": "0x5682",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x5690",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'll tell you then, in terms that you can understand.\""
+	},
+	{
+		"LABEL": "0x5821",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x582F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...You've been dumped by Nana-senpai.\""
+	},
+	{
+		"LABEL": "0x59BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x59C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"For a long time, she's been asking me for advice on how to get you to leave her peacefully.\""
+	},
+	{
+		"LABEL": "0x5B6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x5B79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"She said, 'How can I go out with Yukimaru without causing any trouble?'\""
+	},
+	{
+		"LABEL": "0x5D0A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x5D18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So I've decided to play the role of the bad guy and tear the two of you apart.\""
+	},
+	{
+		"LABEL": "0x5E19",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell is she talking about...?"
+	},
+	{
+		"LABEL": "0x5F0A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x5F18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hehe, sorry to say this, but she said she couldn't be satisfied as yours was too small.\""
+	},
+	{
+		"LABEL": "0x60BF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x60CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It makes me laugh that you didn't know that, even though you've been with her all this time.\""
+	},
+	{
+		"LABEL": "0x61C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't make fun of me!!!!"
+	},
+	{
+		"LABEL": "0x6207",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You, on what grounds are you making such accusations..."
+	},
+	{
+		"LABEL": "0x62F8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6306",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You still have doubts about it? Well, take a look at this.\""
+	},
+	{
+		"LABEL": "0x6414",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She took out her flip-phone and showed me the screen."
+	},
+	{
+		"LABEL": "0x647B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A video... No, it looked more like a video call."
+	},
+	{
+		"LABEL": "0x64D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On the screen was a man who looked like Yukimaru... and Nana."
+	},
+	{
+		"LABEL": "0x6537",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I heard Nana's voice, it was the most excited and sexy voice I've ever heard her utter."
+	},
+	{
+		"LABEL": "0x6649",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6657",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...How about it? Nana-senpai seems so happy, doesn't she?\""
+	},
+	{
+		"LABEL": "0x67DC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x67EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You've never seen Nana-senpai in such a state of ecstasy, have you?\""
+	},
+	{
+		"LABEL": "0x68EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I saw those shocking images, I fell to my knees."
+	},
+	{
+		"LABEL": "0x695C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My eyes go round and round, and I can't think of anything."
+	},
+	{
+		"LABEL": "0x6A55",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6A63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You're still not ready as a man... if you let another man sleep with your woman.\""
+	},
+	{
+		"LABEL": "0x6C0A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6C18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes... I'm confident that I can satisfy Nana-senpai better than this man.\""
+	},
+	{
+		"LABEL": "0x6DC5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6DD3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's easy to make Nana-senpai mine... mentally and sexually.\""
+	},
+	{
+		"LABEL": "0x6F76",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x6F84",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A woman like her will become dependent on you as soon as you get her to put a little trust in you.\""
+	},
+	{
+		"LABEL": "0x7125",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x7133",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─How does it feel to be humiliated by a lesbian? Hey, tell me.\""
+	},
+	{
+		"LABEL": "0x7241",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As my vision blurred from my tears, Saiko's venomous words won't leave my ears."
+	},
+	{
+		"LABEL": "0x72A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a dark alley."
+	},
+	{
+		"LABEL": "0x72E5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana's happy screams, coming from the flip-phone, echoed forever..."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Cuckold」"
+	},
+	{
+		"LABEL": "0x7631",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x763F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's with you...\""
+	},
+	{
+		"LABEL": "0x77B6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x77C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ever since you showed up, Nana-senpai's become weird...\""
+	},
+	{
+		"LABEL": "0x795D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x796B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nana-senpai's stopped looking at me...\""
+	},
+	{
+		"LABEL": "0x7A62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell is this girl talking about...?"
+	},
+	{
+		"LABEL": "0x7B51",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x7B5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm just worried about Nana-senpai. I'm just trying to get rid of the pests that are gathering around her.\""
+	},
+	{
+		"LABEL": "0x7D22",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x7D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nana-senpai is my reason for living. She taught me the meaning of life... so, she's like a god to me.\""
+	},
+	{
+		"LABEL": "0x7EEB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x7EF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"If Nana-senpai is in trouble, only I'll help her.\""
+	},
+	{
+		"LABEL": "0x8084",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x8092",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I won't forgive you if you make Nana-senpai unhappy.\""
+	},
+	{
+		"LABEL": "0x816C",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 10,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x81B7",
+				"STRING": "Please stay out of it."
+			},
+			{
+				"UNK0": 1,
+				"ID": 11,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x81B7",
+				"STRING": "Nana isn't yours."
+			}
+		]
+	},
+	{
+		"LABEL": "0x8295",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x82A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please don't use words which don't make any sense. You've got to talk to me in a way I can understand.\""
+	},
+	{
+		"LABEL": "0x83BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The coldness of her voice sent chills down my spine and I couldn't move."
+	},
+	{
+		"LABEL": "0x8417",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She laughed suspiciously and put her hand on my neck."
+	},
+	{
+		"LABEL": "0x8510",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x851E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Or are you saying you're... going to fill my hole?\""
+	},
+	{
+		"LABEL": "0x8764",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x8772",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Meta...rou...? And Saiko-cha...\""
+	},
+	{
+		"LABEL": "0x88DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Shit!!"
+	},
+	{
+		"LABEL": "0x891A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pushed Saiko away as hard as I could, grabbed Nana's hand, and ran."
+	},
+	{
+		"LABEL": "0x897F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thought it was a bit violent, but it's the only way to protect Nana right now."
+	},
+	{
+		"LABEL": "0x89F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've got to protect Nana from Saiko's clutches..."
+	},
+	{
+		"LABEL": "0x8C88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I heard the sound of dripping water in this black unknown space."
+	},
+	{
+		"LABEL": "0x8CCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Where am I, and why am I here?"
+	},
+	{
+		"LABEL": "0x8D2E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, Nana, was supposed to have put on my nightgown, and then went to bed at the usual time."
+	},
+	{
+		"LABEL": "0x8D99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was waist-deep in water, but strangely I wasn't cold."
+	},
+	{
+		"LABEL": "0x8DFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─I don't understand, what is this? Am I dreaming?"
+	},
+	{
+		"LABEL": "0x8E4F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've been having a lot of dreams like this lately."
+	},
+	{
+		"LABEL": "0x8E9A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hope it's a dream, because then, it would be nothing more than a dream. If this was reality, that'd be the worst..."
+	},
+	{
+		"LABEL": "0x8EF7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "While I was lost in thought, I heard the sound of water being pushed aside from up ahead."
+	},
+	{
+		"LABEL": "0x8F58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's right, it always happens at this time..."
+	},
+	{
+		"LABEL": "0x8FBB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x8FC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...You again?\""
+	},
+	{
+		"LABEL": "0x909E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She appears."
+	},
+	{
+		"LABEL": "0x917B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9189",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nana-senpai.\""
+	},
+	{
+		"LABEL": "0x92F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9302",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I want the truth. I'm not satisfied with the way things are going...\""
+	},
+	{
+		"LABEL": "0x940B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9419",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What are you talking about? I don't get it.\""
+	},
+	{
+		"LABEL": "0x9509",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9517",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please... Nana-senpai. I would never, ever hurt you.\""
+	},
+	{
+		"LABEL": "0x96BE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x96CC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Won't you become one with me...?\""
+	},
+	{
+		"LABEL": "0x9792",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 12,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x97C9",
+				"STRING": "Accept her"
+			},
+			{
+				"UNK0": 1,
+				"ID": 13,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0xA6FD",
+				"STRING": "Don't accept her"
+			}
+		]
+	},
+	{
+		"LABEL": "0x97F7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9805",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's just a dream anyway... If you can do it, go ahead and try...!!\""
+	},
+	{
+		"LABEL": "0x9917",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9925",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, Senpai... you finally accepted me.\""
+	},
+	{
+		"LABEL": "0x9A75",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Saiko smiles and happily puts her hand around my neck."
+	},
+	{
+		"LABEL": "0x9AF4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9B02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm glad...\""
+	},
+	{
+		"LABEL": "0x9B53",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9B61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah... N-noo...\""
+	},
+	{
+		"LABEL": "0x9BA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if it's a lie, I regret saying something like that."
+	},
+	{
+		"LABEL": "0x9C0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't like it... It's disgusting. Even in a dream like this, it doesn't feel good."
+	},
+	{
+		"LABEL": "0x9C8B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9C99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why are you doing... this... you...\""
+	},
+	{
+		"LABEL": "0x9CF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Unintentionally, my true feelings came out of my mouth."
+	},
+	{
+		"LABEL": "0x9D5E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9D6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why, you ask... don't you understand?\""
+	},
+	{
+		"LABEL": "0x9DD3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9DE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What you're doing is nothing less than stalking me! Do you really enjoy watching me get scared?"
+	},
+	{
+		"LABEL": "0x9E8B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9E99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, that's not it... Look.\""
+	},
+	{
+		"LABEL": "0x9EFC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9F0A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't you remember?\""
+	},
+	{
+		"LABEL": "0x9F61",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x9F6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Remember what?\""
+	},
+	{
+		"LABEL": "0x9FC7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x9FD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Have you forgotten?\""
+	},
+	{
+		"LABEL": "0xA032",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xA040",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I am you, and you are me.\""
+	},
+	{
+		"LABEL": "0xA09F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xA0AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Hah?\""
+	},
+	{
+		"LABEL": "0xA101",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Saiko's face and body melted into a sludge."
+	},
+	{
+		"LABEL": "0xA152",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And that liquid clung to my body."
+	},
+	{
+		"LABEL": "0xA1C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xA1CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Eeek...!!!\""
+	},
+	{
+		"LABEL": "0xA22D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xA23B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You still don't understand?\""
+	},
+	{
+		"LABEL": "0xA294",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xA2A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Saiko... is you.\""
+	},
+	{
+		"LABEL": "0xA33B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The liquid is slowly eating away at my body─"
+	},
+	{
+		"LABEL": "0xA38C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eventually, me and Saiko became one."
+	},
+	{
+		"LABEL": "0xA3E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0xA412",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Yes, that's right."
+	},
+	{
+		"LABEL": "0xA455",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've long forgotten this feeling..."
+	},
+	{
+		"LABEL": "0xA49E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We were originally one existence in the beginning..."
+	},
+	{
+		"LABEL": "Custom6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Fusion」"
+	},
+	{
+		"LABEL": "0xA72B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xA739",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, I'm not kidding, it's disgusting.\""
+	},
+	{
+		"LABEL": "0xA831",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xA83F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It doesn't matter what Nana-senpai thinks.\""
+	},
+	{
+		"LABEL": "0xA9C8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xA9D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because you and I are... the same.\""
+	},
+	{
+		"LABEL": "0xAB10",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She said that, and then I woke up."
+	},
+	{
+		"LABEL": "0xAB67",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm on my bed, my body is drenched in sweat."
+	},
+	{
+		"LABEL": "0xABE6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xABF4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haa... haa, haa...\""
+	},
+	{
+		"LABEL": "0xAC55",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xAC63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A dream...? Thank goodness...\""
+	},
+	{
+		"LABEL": "0xACBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My body feels disgusting from all the sweat."
+	},
+	{
+		"LABEL": "0xAD1C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xAD2A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nana-senpai.\""
+	},
+	{
+		"LABEL": "0xAD69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear her voice, that voice that I heard in my dreams just now..."
+	},
+	{
+		"LABEL": "0xADD0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As if Saiko is right in front of me, a hallucination."
+	},
+	{
+		"LABEL": "0xAE31",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xAE3F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"This is just silly, am I starting to... hear things.\""
+	},
+	{
+		"LABEL": "0xAE9B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Have I finally lost my mind?"
+	},
+	{
+		"LABEL": "0xAEF4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't believe that even in the real world, I can't have any respite from these visions..."
+	},
+	{
+		"LABEL": "0xAFFE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xB00C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You're not hallucinating, Nana-senpai.\""
+	},
+	{
+		"LABEL": "0xB189",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xB197",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm right here beside you now...\""
+	},
+	{
+		"LABEL": "0xB290",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB29E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Eh...?\""
+	},
+	{
+		"LABEL": "0xB2DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Saiko smiled suspiciously and pushed me down roughly."
+	},
+	{
+		"LABEL": "0xB351",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB35F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Nooooooooooooooooooo!!!!\""
+	},
+	{
+		"LABEL": "0xB3CC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB3DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't come, don't touch me! Don't come near me!\""
+	},
+	{
+		"LABEL": "0xB4E4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0xB4F2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sen...pai...?\""
+	},
+	{
+		"LABEL": "0xB5D3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB5E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No...! Enough, already...! I hate you! I really hate you!!! I want nothing to do with you ever again!\""
+	},
+	{
+		"LABEL": "0xB676",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB684",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Disappear! Disappear!! Disappear, disappear, disappear!!!! Get the fuck away from me!!!\""
+	},
+	{
+		"LABEL": "0xB798",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......\""
+	},
+	{
+		"LABEL": "0xB87C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The hallucination of Saiko turned over dejectedly and disappeared before I knew it."
+	},
+	{
+		"LABEL": "0xB8FF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xB90D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haa... Haa, haa...\""
+	},
+	{
+		"LABEL": "0xB966",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wipe the sweat off my face."
+	},
+	{
+		"LABEL": "0xB9AD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't let my guard down for even a second anymore."
+	},
+	{
+		"LABEL": "0xB9F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if I'll be able to sleep for one minute... or even one second."
+	},
+	{
+		"LABEL": "0xBA4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just thinking about the fact that she might be in the house, I feel every muscle in my body tense up."
+	},
+	{
+		"LABEL": "0xBACE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pulled the covers over my head and waited for the morning to come..."
+	},
+	{
+		"LABEL": "0xBD96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Where... am I?"
+	},
+	{
+		"LABEL": "0xBDD7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm confused by the unusual white scenery."
+	},
+	{
+		"LABEL": "0xBE36",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xBE44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah... I get it now.\""
+	},
+	{
+		"LABEL": "0xBE88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I calmed down, they moved me to a room with a view."
+	},
+	{
+		"LABEL": "0xBEF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I came out of the dark room and saw sunlight for the first time in a while."
+	},
+	{
+		"LABEL": "0xBF58",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xBF66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's so... bright...\""
+	},
+	{
+		"LABEL": "0xBFA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The scar on my wrist stings."
+	},
+	{
+		"LABEL": "0xBFF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The marks, still fresh and red, show that the sin I committed is still new."
+	},
+	{
+		"LABEL": "0xC057",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I went on a bit of a rampage yesterday, so I deserved these wounds."
+	},
+	{
+		"LABEL": "0xC0B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...They've put me in restraints. It's no surprise, because I can't control my own emotions, and might hurt someone else."
+	},
+	{
+		"LABEL": "0xC156",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could say it was business as usual, but the fact that I was getting used to this unusual situation scared me a little."
+	},
+	{
+		"LABEL": "0xC1D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now that I can't even control my own emotions... how do I look in the eyes of others?"
+	},
+	{
+		"LABEL": "0xC24B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what Onee-chan will think if she saw me now, would she laugh at me for being a freak?"
+	},
+	{
+		"LABEL": "0xC2BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's not possible. Onee-chan has never made fun of me, not even once."
+	},
+	{
+		"LABEL": "0xC32D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I got scared as I got sucked further into my impossible fantasies."
+	},
+	{
+		"LABEL": "0xC38E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It makes me want to shake my head furiously and smash everything around me."
+	},
+	{
+		"LABEL": "0xC3F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It makes me want to boil up from the deepest parts of my heart, and then disappear into a pulpy, soggy mess."
+	},
+	{
+		"LABEL": "0xC464",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My emotions of anger are welling up, and the desire to kill myself becomes stronger."
+	},
+	{
+		"LABEL": "0xC4D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xC4DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, no, nonono...!!!\""
+	},
+	{
+		"LABEL": "0xC534",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I shake my head violently and deny it."
+	},
+	{
+		"LABEL": "0xC585",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I drove away the fearful thoughts that come up one after another, from my mind."
+	},
+	{
+		"LABEL": "0xC5F8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xC606",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Whew, hoo... hoo... haa......\""
+	},
+	{
+		"LABEL": "0xC65E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "From my window, I could see a crimson flower blooming in the garden's pond."
+	},
+	{
+		"LABEL": "0xC6CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xC6D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"That's...\""
+	},
+	{
+		"LABEL": "0xC764",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Zakuro, the flower of the pomegranate plant."
+	},
+	{
+		"LABEL": "0xC79D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A flower that embodies the opposites of life and death. A dimensional chain that connects this world and the next."
+	},
+	{
+		"LABEL": "0xC810",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My lips quivered slightly as I looked at it, which had bloomed as if it had forseen my death."
+	},
+	{
+		"LABEL": "0xC897",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xC8A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ha......haha.\""
+	},
+	{
+		"LABEL": "0xC8E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "However, there's no need to for me to afraid, because I'm not afraid of death."
+	},
+	{
+		"LABEL": "0xC94C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because if I lose my body, then I can see Onee-chan, the person I wanted to see the most."
+	},
+	{
+		"LABEL": "0xC9CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, the true nature of this trembling must be joy."
+	},
+	{
+		"LABEL": "0xCA72",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can meet my sister..."
+	},
+	{
+		"LABEL": "0xCAB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The moment I've been waiting for for so long is finally about to happen."
+	},
+	{
+		"LABEL": "0xCB2F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xCB3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ahahaha...fufu......!!\""
+	},
+	{
+		"LABEL": "0xCB9A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The moment all the liquid had left my bladder, I let out an exclamation."
+	},
+	{
+		"LABEL": "0xCC13",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xCC21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haa...haa...aha! Ahahahaha, hahahahaha!!!!\""
+	},
+	{
+		"LABEL": "0xCF30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Under the deep blue starry sky."
+	},
+	{
+		"LABEL": "0xCF71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A woman illuminated by the twinkling stars was talking with a girl."
+	},
+	{
+		"LABEL": "0xCFE4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xCFF2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Every now and then... I still think about the day Onee-chan turned twenty.\""
+	},
+	{
+		"LABEL": "0xD07B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xD08B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What happened?\""
+	},
+	{
+		"LABEL": "0xD0E0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD0EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Okay. On that day, Onee-chan, without saying anything to our mother... left our house.\""
+	},
+	{
+		"LABEL": "0xD17F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD18D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Onee-chan said this to me after she had packed her things.\""
+	},
+	{
+		"LABEL": "0xD202",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD210",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"After today, I won't be coming back to this house. I'm sorry, Saiko...\""
+	},
+	{
+		"LABEL": "0xD28D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD29B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"She said, 'I hate our mother, but I love you, Saiko...'\""
+	},
+	{
+		"LABEL": "0xD322",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xD332",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I see.\""
+	},
+	{
+		"LABEL": "0xD381",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD38F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Those two have always been on bad terms. They give each other the silent treatment every day.\""
+	},
+	{
+		"LABEL": "0xD406",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD414",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"She wanted to fulfill her dream of becoming a beautician, but mother wouldn't let her.\""
+	},
+	{
+		"LABEL": "0xD4B3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD4C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The tense air of such a house almost crushed me, and I struggled to stay sane.\""
+	},
+	{
+		"LABEL": "0xD55A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD568",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Onee-chan was in pain and no one understood it... but I couldn't help her, I couldn't be her strength.\""
+	},
+	{
+		"LABEL": "0xD61B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD629",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I was the only one who understood her...\""
+	},
+	{
+		"LABEL": "0xD69A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD6A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So maybe that's why she left me. Abandoned me.\""
+	},
+	{
+		"LABEL": "0xD72B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xD73B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't be so hard on yourself. You've done nothing wrong, Saiko.\""
+	},
+	{
+		"LABEL": "0xD7B6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD7C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Still... it's my sin to bear.\""
+	},
+	{
+		"LABEL": "0xD82B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD839",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So I've decided to live my life always putting Onee-chan first.\""
+	},
+	{
+		"LABEL": "0xD8BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD8C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"To love Onee-chan from the bottom of my heart is my redemption.\""
+	},
+	{
+		"LABEL": "0xD93B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD949",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't you think that's fitting for sisters who were starved for parental love?\""
+	},
+	{
+		"LABEL": "0xD9C6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xD9D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Moeko-san... what do you think of me like this? Don't you think I'm pathetic?\""
+	},
+	{
+		"LABEL": "0xDB39",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xDB4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Saiko-chan, there are so many things a child is powerless to help, you know?\""
+	},
+	{
+		"LABEL": "0xDBD0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xDBE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You can't blame yourself for everything. It's inevitable that some things depend on the circumstances you were born into.\""
+	},
+	{
+		"LABEL": "0xDC71",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xDC83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It may be hard now, but when you're ready to live on your own...\""
+	},
+	{
+		"LABEL": "0xDD0A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xDD1C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You will definitely find your true self.\""
+	},
+	{
+		"LABEL": "0xDD85",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xDD97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's the start of your real life, where you're not tied down to anyone or anything.\""
+	},
+	{
+		"LABEL": "0xDE16",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xDE24",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But I... can't do it. No matter what I do, no matter how I do it, it just doesn't turn out right.\""
+	},
+	{
+		"LABEL": "0xDEB9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xDEC7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I have nothing but worries about the future, nothing but regret inside my heart.\""
+	},
+	{
+		"LABEL": "0xDF3E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xDF4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No one has ever loved me before, and I'm sure no one ever will.\""
+	},
+	{
+		"LABEL": "0xE0AF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xE0C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hehe. You're just like me with your low self-esteem.\""
+	},
+	{
+		"LABEL": "0xE144",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xE156",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"We might not get along very well, but we're probably very similar people.\""
+	},
+	{
+		"LABEL": "0xE1C9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xE1DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"We can only walk while embracing the pain.\""
+	},
+	{
+		"LABEL": "0xE252",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0xE264",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because when the pain is gone... you won't be yourself anymore, will you?\""
+	}
+]

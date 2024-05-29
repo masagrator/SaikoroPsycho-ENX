@@ -1,0 +1,3143 @@
+[
+	{
+		"LABEL": "0x48F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The dream I had yesterday is running through my mind. My head is spinning."
+	},
+	{
+		"LABEL": "0x4F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...It was the worst dream."
+	},
+	{
+		"LABEL": "0x535",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A dream in which someone who looks like Psico is engulfed in flames."
+	},
+	{
+		"LABEL": "0x588",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Was that... Psico?"
+	},
+	{
+		"LABEL": "0x5CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─No, it can't be. It's too early to come to a conclusion."
+	},
+	{
+		"LABEL": "0x61C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That... can't be Psico."
+	},
+	{
+		"LABEL": "0x661",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's just my dream."
+	},
+	{
+		"LABEL": "0x6A0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yesterday, it was more than I could endure."
+	},
+	{
+		"LABEL": "0x6F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But she came to me."
+	},
+	{
+		"LABEL": "0x74A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She gently hugged me, telling me that it was okay."
+	},
+	{
+		"LABEL": "0x79D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This morning I warmly promised to see her after school."
+	},
+	{
+		"LABEL": "0x80E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, for sure..."
+	},
+	{
+		"LABEL": "0x84B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico exists."
+	},
+	{
+		"LABEL": "0x88A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Still, what's painful is painful, and what's scary is scary. I guess I'm still a timid person no matter how old I get."
+	},
+	{
+		"LABEL": "0x90F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't wait to see her again, to hear her voice, to touch her, to have her touch me."
+	},
+	{
+		"LABEL": "0x97E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The bell rang."
+	},
+	{
+		"LABEL": "0x9BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Suppressing my feelings of impatience, I tried to leave the classroom."
+	},
+	{
+		"LABEL": "0xA16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But─someone's standing in the way."
+	},
+	{
+		"LABEL": "0xA6B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By now they're just an obstacle to me, those two."
+	},
+	{
+		"LABEL": "0xB6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xB79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou, we need to talk.\""
+	},
+	{
+		"LABEL": "0xC33",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xC76",
+				"STRING": "What is it? I'm in a hurry though."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xC76",
+				"STRING": "Maybe next time."
+			}
+		]
+	},
+	{
+		"LABEL": "0xD55",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xD63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why did you lie about your part-time job?\""
+	},
+	{
+		"LABEL": "0xE47",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Tch."
+	},
+	{
+		"LABEL": "0xE7C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Damnit."
+	},
+	{
+		"LABEL": "0xEBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What should I say? What's the best way to cover it up?"
+	},
+	{
+		"LABEL": "0xF06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Shit, my head is a mess. I can't stop thinking about the dream."
+	},
+	{
+		"LABEL": "0xF7B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Ah, I know, I had a sudden day off yesterday, so I swapped class duty with someone else."
+	},
+	{
+		"LABEL": "0x1096",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x10A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But you didn't talk to anyone yesterday.\""
+	},
+	{
+		"LABEL": "0x1186",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Shit. I don't know how to respond to that."
+	},
+	{
+		"LABEL": "0x1277",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1285",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Knock if off already, Metarou... Follow us.\""
+	},
+	{
+		"LABEL": "0x1369",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Stop pestering me, it's annoying."
+	},
+	{
+		"LABEL": "0x13AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don t want to be pushed around. I, I just... want to get to the garden where she's waiting for me."
+	},
+	{
+		"LABEL": "0x14C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x14CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou... I know what you were doing the day before yesterday.\""
+	},
+	{
+		"LABEL": "0x169F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They took me to the back of the school building, where there was no one else around."
+	},
+	{
+		"LABEL": "0x1708",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't help but grimace at the wasted time."
+	},
+	{
+		"LABEL": "0x1755",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...But again, there was no helping it."
+	},
+	{
+		"LABEL": "0x179E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana was saying things that were incomprehensible to me."
+	},
+	{
+		"LABEL": "0x17F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How does she know what I've been up to?"
+	},
+	{
+		"LABEL": "0x183C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did she tail me?"
+	},
+	{
+		"LABEL": "0x187B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't tell me─she violated our sacred space?"
+	},
+	{
+		"LABEL": "0x18D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If that's the case I can't forgive her."
+	},
+	{
+		"LABEL": "0x1919",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That place is only for the two of us."
+	},
+	{
+		"LABEL": "0x1A08",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x1A16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou... yesterday you were at the abandoned building on the outskirts of town.\""
+	},
+	{
+		"LABEL": "0x1BAB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x1BB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Do you remember what happened there, a long time ago...?\""
+	},
+	{
+		"LABEL": "0x1CC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thump─My heart made a loud beat."
+	},
+	{
+		"LABEL": "0x1D0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a moment, my body stiffened. Alarm bells began sounding in my head."
+	},
+	{
+		"LABEL": "0x1D6B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Stop."
+	},
+	{
+		"LABEL": "0x1E44",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1E52",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"There was a fire. A fire of suspicious origin, the cause of which was never determined. The investigation was closed and became a cold case.\""
+	},
+	{
+		"LABEL": "0x1F6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At that moment, an image emerges in my mind."
+	},
+	{
+		"LABEL": "0x1FC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Stop."
+	},
+	{
+		"LABEL": "0x209E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x20AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"And... around the same time, a girl in elementary school went missing.\""
+	},
+	{
+		"LABEL": "0x21A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sound and smell of burning flesh is stuck in my brain."
+	},
+	{
+		"LABEL": "0x21FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Stop."
+	},
+	{
+		"LABEL": "0x22D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x22E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The article I saw in the paper had the girl's name on it.\""
+	},
+	{
+		"LABEL": "0x23E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two eyes. Looking at me. Staring."
+	},
+	{
+		"LABEL": "0x2433",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Stop."
+	},
+	{
+		"LABEL": "0x250C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x251A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─The girl's name was Psico.\""
+	},
+	{
+		"LABEL": "0x2602",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm assaulted by a flashback of a scene, of an arm reaching out to me."
+	},
+	{
+		"LABEL": "0x265D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Stop."
+	},
+	{
+		"LABEL": "0x2736",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2744",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The day before yesterday, at the site of the fire, I heard yours voice...\""
+	},
+	{
+		"LABEL": "0x2840",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I beg you."
+	},
+	{
+		"LABEL": "0x2917",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2925",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You were calling out someone's name the whole time.\""
+	},
+	{
+		"LABEL": "0x2A11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Please stop."
+	},
+	{
+		"LABEL": "0x2AEA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2AF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─Psico.\""
+	},
+	{
+		"LABEL": "0x2BD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At that moment, I thought I heard the sound of something collapsing."
+	},
+	{
+		"LABEL": "0x2CD3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x2CE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please, just answer me. Metarou, what were you doing in that place... all alone?\""
+	},
+	{
+		"LABEL": "0x2DC5",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x2E0C",
+				"STRING": "I've got nothing to talk about."
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x4308",
+				"STRING": "I wasn't alone!"
+			}
+		]
+	},
+	{
+		"LABEL": "0x2E2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"There's nothing to talk about!\""
+	},
+	{
+		"LABEL": "0x2E6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I spat coldly."
+	},
+	{
+		"LABEL": "0x2F31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And then, I ran out of there."
+	},
+	{
+		"LABEL": "0x2F80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have no interest in getting involved with people who try to pry into other people's affairs."
+	},
+	{
+		"LABEL": "0x2FE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Those words, those pitying eyes, torment me."
+	},
+	{
+		"LABEL": "0x303A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell were they thinking, saying those rubbish things?"
+	},
+	{
+		"LABEL": "0x309D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For people like me, there is nothing more malicious than good intentions."
+	},
+	{
+		"LABEL": "0x3100",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "People who can live normal happy lives won't understand. And I don't expect them to."
+	},
+	{
+		"LABEL": "0x3173",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've been using them for a while now, but to be honest, it's suffocating."
+	},
+	{
+		"LABEL": "0x31D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's about time I cut them off, end this fake friendship."
+	},
+	{
+		"LABEL": "0x325D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Besides, this would allow me to be with Psico without anyone disturbing me."
+	},
+	{
+		"LABEL": "0x32CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If anything, it's convenient for me."
+	},
+	{
+		"LABEL": "0x330B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico, Psico, Psico, Psico─"
+	},
+	{
+		"LABEL": "0x3356",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, I can't wait to see you."
+	},
+	{
+		"LABEL": "0x33A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, I was saying her name as I was running."
+	},
+	{
+		"LABEL": "0x341C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x342C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─Wait.\""
+	},
+	{
+		"LABEL": "0x3472",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then I couldn't believe what my eyes saw."
+	},
+	{
+		"LABEL": "0x3507",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was Psico. Psico was right before my eyes."
+	},
+	{
+		"LABEL": "0x3556",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Did she leave that garden?"
+	},
+	{
+		"LABEL": "0x359F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...No, something's wrong."
+	},
+	{
+		"LABEL": "0x35DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I noticed a discrepancy. They are very similar, but different."
+	},
+	{
+		"LABEL": "0x3631",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her height is different, and she seems more mature."
+	},
+	{
+		"LABEL": "0x369A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure that when Psico grows up, she will have the appearance of this person."
+	},
+	{
+		"LABEL": "0x36FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then this woman must be─"
+	},
+	{
+		"LABEL": "0x3754",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x3764",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...That appearance. Then, you are Psico's...\""
+	},
+	{
+		"LABEL": "0x37CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x37DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yes. As I thought, it's you.\""
+	},
+	{
+		"LABEL": "0x39E5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could feel something plunging into my body."
+	},
+	{
+		"LABEL": "0x3A40",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At first, I didn't know what was going on."
+	},
+	{
+		"LABEL": "0x3A97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Next came the pain. It was sharp and dull at the same time."
+	},
+	{
+		"LABEL": "0x3B04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It felt cool on the inside, but then suddenly became hot."
+	},
+	{
+		"LABEL": "0x3B55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Sweat creeps down my back."
+	},
+	{
+		"LABEL": "0x3B98",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Red water leaked out from inside me."
+	},
+	{
+		"LABEL": "0x3BEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Something\" was stuck inside me..."
+	},
+	{
+		"LABEL": "0x3C34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x3C65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Finally, I understood what had happened."
+	},
+	{
+		"LABEL": "0x3CCC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x3CDC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've been looking for you for a long time.\""
+	},
+	{
+		"LABEL": "0x3D32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It hurts."
+	},
+	{
+		"LABEL": "0x3D67",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's hot, it's hot."
+	},
+	{
+		"LABEL": "0x3DA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─It's cold."
+	},
+	{
+		"LABEL": "0x3DE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Gradually, my body is getting colder."
+	},
+	{
+		"LABEL": "0x3E2A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The warmth that Psico gave me is going away."
+	},
+	{
+		"LABEL": "0x3E8D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x3E9D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"For a long, long time─\""
+	},
+	{
+		"LABEL": "0x3EE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A face that looks a lot like Psico is looking down at me."
+	},
+	{
+		"LABEL": "0x3F3A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With cold eyes. Eyes filled with hatred. Eyes filled with murderous intent."
+	},
+	{
+		"LABEL": "0x3FF5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x4005",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've wanted to kill you.\""
+	},
+	{
+		"LABEL": "0x4053",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah."
+	},
+	{
+		"LABEL": "0x4086",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I thought..."
+	},
+	{
+		"LABEL": "0x40BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mothers are scary."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Mother」"
+	},
+	{
+		"LABEL": "0x4327",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm not alone!\""
+	},
+	{
+		"LABEL": "0x4368",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I spat out."
+	},
+	{
+		"LABEL": "0x43A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When was the last time I voiced out so strongly?"
+	},
+	{
+		"LABEL": "0x449E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x44AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What are you talking about? At that time what you were holding was...!\""
+	},
+	{
+		"LABEL": "0x45A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Shut up!!"
+	},
+	{
+		"LABEL": "0x45DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "These guys don't know what they're talking about."
+	},
+	{
+		"LABEL": "0x462A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "About the time that me and Psico have spent together."
+	},
+	{
+		"LABEL": "0x4677",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "About how she and I are deeply in love."
+	},
+	{
+		"LABEL": "0x46CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "About how I've made a vow to devote everything I have for her."
+	},
+	{
+		"LABEL": "0x472B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You guys don't know anything about me and Psico!!"
+	},
+	{
+		"LABEL": "0x4822",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x4830",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You must know, don't you!? What you're doing with a dead person─\""
+	},
+	{
+		"LABEL": "0x4938",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico is alive!!"
+	},
+	{
+		"LABEL": "0x4A17",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x4A25",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hah...?\""
+	},
+	{
+		"LABEL": "0x4AF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even now, she's hungry and waiting for me!"
+	},
+	{
+		"LABEL": "0x4BE0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x4BEE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What are you saying...\""
+	},
+	{
+		"LABEL": "0x4CC2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Enough already..."
+	},
+	{
+		"LABEL": "0x4CFF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't you ever get involved with us again. Don't you dare interfere with us!"
+	},
+	{
+		"LABEL": "0x4D56",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Leave me alone, I'm sick of your meddling!"
+	},
+	{
+		"LABEL": "0x4DC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Talking is already a waste of time."
+	},
+	{
+		"LABEL": "0x4E26",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I ran away as fast as I could."
+	},
+	{
+		"LABEL": "0x4F0B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x4F19",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Wait, Metarou!\""
+	},
+	{
+		"LABEL": "0x5059",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What nonsense are they spouting?"
+	},
+	{
+		"LABEL": "0x50AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico's not dead."
+	},
+	{
+		"LABEL": "0x50F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The promise we made this morning, the warmth, the feeling, it's all still here in my hands."
+	},
+	{
+		"LABEL": "0x5156",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's still here."
+	},
+	{
+		"LABEL": "0x5191",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0x51C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm having flashbacks to my recent dream."
+	},
+	{
+		"LABEL": "0x5217",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My mind is in disarray."
+	},
+	{
+		"LABEL": "0x5252",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have a bad feeling."
+	},
+	{
+		"LABEL": "0x528F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anxiety strikes me again."
+	},
+	{
+		"LABEL": "0x52D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What if what they're saying is true?"
+	},
+	{
+		"LABEL": "0x5327",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What if that dream was the truth?"
+	},
+	{
+		"LABEL": "0x536C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then was that girl in the dream the real Psico?"
+	},
+	{
+		"LABEL": "0x53BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What am I...?"
+	},
+	{
+		"LABEL": "0x53FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\" I  love  you,  Metarou. \""
+	},
+	{
+		"LABEL": "0x5445",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Those words."
+	},
+	{
+		"LABEL": "0x5482",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Does it really belong to the Psico I know?"
+	},
+	{
+		"LABEL": "0x54D3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Unable to bear it, I picked up my pace."
+	},
+	{
+		"LABEL": "0x569F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She was there."
+	},
+	{
+		"LABEL": "0x56DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There for me."
+	},
+	{
+		"LABEL": "0x5717",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With her usual smile, she was waiting for me."
+	},
+	{
+		"LABEL": "0x5770",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We hug."
+	},
+	{
+		"LABEL": "0x57A9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the usual warmth, a place where I can feel safe."
+	},
+	{
+		"LABEL": "0x57F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Normally, at this point I would have been satisfied."
+	},
+	{
+		"LABEL": "0x5853",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And yet, no matter how much I touch her, I can't wipe away the fear that's inside."
+	},
+	{
+		"LABEL": "0x58BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─So."
+	},
+	{
+		"LABEL": "0x58F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll paint over this fear with the pleasures of the flesh."
+	},
+	{
+		"LABEL": "0x5956",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Black, dark, evil emotions swallowed me up."
+	},
+	{
+		"LABEL": "0x59B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By the time I became aware of it, I couldn't hold myself back anymore."
+	},
+	{
+		"LABEL": "0x5A7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico seemed to be trembling with tears in her eyes."
+	},
+	{
+		"LABEL": "0x5ACE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Why are you making such a face?"
+	},
+	{
+		"LABEL": "0x5B1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're always so accepting of me."
+	},
+	{
+		"LABEL": "0x5B6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You always put on a happy face."
+	},
+	{
+		"LABEL": "0x5BBF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why don't you let me hear your voice?"
+	},
+	{
+		"LABEL": "0x5C0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Right now, in this moment, I want to feel your presence more strongly."
+	},
+	{
+		"LABEL": "0x5C71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why can't you just give me what I want?"
+	},
+	{
+		"LABEL": "0x5CD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...It's strange."
+	},
+	{
+		"LABEL": "0x5D0D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I give her more pleasure, will she remember her usual feelings?"
+	},
+	{
+		"LABEL": "0x5D76",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, without a doubt, that must be it."
+	},
+	{
+		"LABEL": "0x5DBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to feel her love. Yet, my feeling as I'm hugging her right now..."
+	},
+	{
+		"LABEL": "0x5E32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Was frustration."
+	},
+	{
+		"LABEL": "0x5E73",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe I'm going crazy, maybe I'm not. But this has to stop."
+	},
+	{
+		"LABEL": "0x5ED8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─I mustn't do anything that could hurt her."
+	},
+	{
+		"LABEL": "0x5F2F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My calm and collected self, which I banished to a corner of my head, suddenly speaks up."
+	},
+	{
+		"LABEL": "0x5F88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Did you know, good boys should remain silent."
+	},
+	{
+		"LABEL": "0x6029",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A tear hit my cheek."
+	},
+	{
+		"LABEL": "0x607A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A feeling that makes my head boil."
+	},
+	{
+		"LABEL": "0x60BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why're you making such a face."
+	},
+	{
+		"LABEL": "0x6102",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why won't you accept my love?"
+	},
+	{
+		"LABEL": "0x6151",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The frustration in my heart turned into anger."
+	},
+	{
+		"LABEL": "0x61A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want you to accept me. I want you to desire me... I want you to make me happy."
+	},
+	{
+		"LABEL": "0x620B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Insatiable, I forced myself on her body─"
+	},
+	{
+		"LABEL": "0x628A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x6298",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou... What are you doing, man?\""
+	},
+	{
+		"LABEL": "0x6301",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x630F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Y-you... really...\""
+	},
+	{
+		"LABEL": "0x637D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, shit."
+	},
+	{
+		"LABEL": "0x63B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Them again."
+	},
+	{
+		"LABEL": "0x63EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why are you here, anywhere, everywhere."
+	},
+	{
+		"LABEL": "0x643E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Stop trying to get in my way."
+	},
+	{
+		"LABEL": "0x6485",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Despite all of this, my body still sought pleasure."
+	},
+	{
+		"LABEL": "0x64E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Those guys don't matter."
+	},
+	{
+		"LABEL": "0x6527",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I want to enjoy the happiness of this moment."
+	},
+	{
+		"LABEL": "0x66F0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x66FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou... is 'that'... Psico-chan...?\""
+	},
+	{
+		"LABEL": "0x67EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "From the corner of my eye, I saw Nana and Yukimaru's faces. They were paler than mine."
+	},
+	{
+		"LABEL": "0x68F7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x6905",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't you realize...? That's a...\""
+	},
+	{
+		"LABEL": "0x6A82",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x6A90",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Cor...pse...\""
+	},
+	{
+		"LABEL": "0x6B68",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hah?"
+	},
+	{
+		"LABEL": "0x6B99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They said something that doesn't make sense."
+	},
+	{
+		"LABEL": "0x6BEE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A corpse?"
+	},
+	{
+		"LABEL": "0x6C21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know what you're talking about, but even for a joke, that's too much."
+	},
+	{
+		"LABEL": "0x6C7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico's no corpse."
+	},
+	{
+		"LABEL": "0x6CBB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, you see."
+	},
+	{
+		"LABEL": "0x6CF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico─"
+	},
+	{
+		"LABEL": "0x6D1D",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x6D62",
+				"STRING": "Psico was smiling."
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x9AAD",
+				"STRING": "Psico was crying."
+			}
+		]
+	},
+	{
+		"LABEL": "0x6E06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico was smiling."
+	},
+	{
+		"LABEL": "0x6E47",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At last, she smiled back at me."
+	},
+	{
+		"LABEL": "0x6E8C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The tears from before must have been a lie. As usual, Psico is there for me."
+	},
+	{
+		"LABEL": "0x6F07",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At the same time, I felt the warmth that I wasn't able to feel earlier."
+	},
+	{
+		"LABEL": "0x6F78",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Look... This isn't a corpse, that's just a lie."
+	},
+	{
+		"LABEL": "0x6FC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I knew I couldn't trust those guys."
+	},
+	{
+		"LABEL": "0x7016",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All I have now is Psico."
+	},
+	{
+		"LABEL": "0x7077",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x7085",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou... You, say something!!\""
+	},
+	{
+		"LABEL": "0x70E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't hear you."
+	},
+	{
+		"LABEL": "0x7136",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x7144",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why are you silent? If you're silent, we can't understand...\""
+	},
+	{
+		"LABEL": "0x71B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The only thing I can hear is Psico's voice."
+	},
+	{
+		"LABEL": "0x725F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x726D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou.\""
+	},
+	{
+		"LABEL": "0x72C0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x72CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's a bit noisy here...\""
+	},
+	{
+		"LABEL": "0x7329",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7337",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Shall we go somewhere else?\""
+	},
+	{
+		"LABEL": "0x7386",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, of course."
+	},
+	{
+		"LABEL": "0x73C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you say so, I'll go anywhere with you."
+	},
+	{
+		"LABEL": "0x7484",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x7492",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou!! Where do you think you're going... Hey!\""
+	},
+	{
+		"LABEL": "0x7507",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x7515",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou, Metarou!!\""
+	},
+	{
+		"LABEL": "0x7567",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Ah."
+	},
+	{
+		"LABEL": "0x759E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's too much noise."
+	},
+	{
+		"LABEL": "0x7629",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Psico brought me to the back of the garden."
+	},
+	{
+		"LABEL": "0x7684",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The place that used to be an open space was now a cliff, and if you stepped over it, you would surely die."
+	},
+	{
+		"LABEL": "0x770F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're the only ones in this place. I can hear the noise coming from afar, but it doesn't matter."
+	},
+	{
+		"LABEL": "0x7833",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7841",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou.\""
+	},
+	{
+		"LABEL": "0x7906",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico called out to me."
+	},
+	{
+		"LABEL": "0x7947",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A lovely voice. A lovely figure. My one and only Psico."
+	},
+	{
+		"LABEL": "0x7996",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even now, you're still here for me."
+	},
+	{
+		"LABEL": "0x7A81",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7A8F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou...\""
+	},
+	{
+		"LABEL": "0x7BF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7C04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Do you remember our vow?\""
+	},
+	{
+		"LABEL": "0x7CD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A vow...?"
+	},
+	{
+		"LABEL": "0x7DAC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7DBA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A vow between us, that we would be together forever.\""
+	},
+	{
+		"LABEL": "0x7F47",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x7F55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou.\""
+	},
+	{
+		"LABEL": "0x80C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x80D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Do you like me?\""
+	},
+	{
+		"LABEL": "0x81A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's a given, of course."
+	},
+	{
+		"LABEL": "0x81E8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I like you, Psico."
+	},
+	{
+		"LABEL": "0x82CD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x82DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─Yes, I know.\""
+	},
+	{
+		"LABEL": "0x844C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x845A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because I feel the same way.\""
+	},
+	{
+		"LABEL": "0x85D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x85DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I am yours and you are mine.\""
+	},
+	{
+		"LABEL": "0x875E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x876C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So, we'll be together forever.\""
+	},
+	{
+		"LABEL": "0x8851",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico is smiling with deep compassion."
+	},
+	{
+		"LABEL": "0x8956",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x8964",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's really too loud in here.\""
+	},
+	{
+		"LABEL": "0x8AED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x8AFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Let's go to a more quiet place.\""
+	},
+	{
+		"LABEL": "0x8C76",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x8C84",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"To a special garden just for the two of us.\""
+	},
+	{
+		"LABEL": "0x8E03",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x8E11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Shall we go together?\""
+	},
+	{
+		"LABEL": "0x8EE0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With that, Psico extends her arms out to me."
+	},
+	{
+		"LABEL": "0x8FD1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x8FDF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Come here, Metarou.\""
+	},
+	{
+		"LABEL": "0x90AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted her to hold me."
+	},
+	{
+		"LABEL": "0x90F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to stay connected with her warmth."
+	},
+	{
+		"LABEL": "0x914E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As if led by her, I took a step forward."
+	},
+	{
+		"LABEL": "0x91C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─For a moment, I felt like I was floating in the air."
+	},
+	{
+		"LABEL": "0x9209",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As if being pulled down, I fell."
+	},
+	{
+		"LABEL": "0x925A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Where am I going?"
+	},
+	{
+		"LABEL": "0x92A7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x92B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It'll be fine, don't worry about it.\""
+	},
+	{
+		"LABEL": "0x9308",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear Psico's voice."
+	},
+	{
+		"LABEL": "0x935D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x936B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"All Metarou has to do is look at me.\""
+	},
+	{
+		"LABEL": "0x93DA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x93E8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"There's no need to worry about anything else.\""
+	},
+	{
+		"LABEL": "0x9445",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She affirmed everything about me."
+	},
+	{
+		"LABEL": "0x9490",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I surrendered my body to Psico."
+	},
+	{
+		"LABEL": "0x94DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because of her love, I'm falling."
+	},
+	{
+		"LABEL": "0x9548",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x9556",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Now we're really together forever.\""
+	},
+	{
+		"LABEL": "0x95C1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x95CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hee hee. Metarou...\""
+	},
+	{
+		"LABEL": "0x9626",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x9634",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Forever and ever... Look at me and me alone. I love you, Metarou.\""
+	},
+	{
+		"LABEL": "Custom6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Fall」"
+	},
+	{
+		"LABEL": "0x9B31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Why?"
+	},
+	{
+		"LABEL": "0x9B6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What's this?"
+	},
+	{
+		"LABEL": "0x9BA7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the hell is this pile of bones?"
+	},
+	{
+		"LABEL": "0x9BEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Where's Psico... Huh?"
+	},
+	{
+		"LABEL": "0x9C2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico and I were just connected."
+	},
+	{
+		"LABEL": "0x9C74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh─ Then..."
+	},
+	{
+		"LABEL": "0x9CB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm right now..."
+	},
+	{
+		"LABEL": "0x9CE8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Connected..."
+	},
+	{
+		"LABEL": "0x9D23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To these bones..."
+	},
+	{
+		"LABEL": "0x9D5A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": ".........Psico?"
+	},
+	{
+		"LABEL": "0x9E11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!!!!!!\""
+	},
+	{
+		"LABEL": "0x9E92",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My head is going to split from the pain."
+	},
+	{
+		"LABEL": "0x9ED5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A torrent of memories, and numerous visions rush into me."
+	},
+	{
+		"LABEL": "0x9F3E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The sound of someone burning, the smell of burning flesh, the two eyes watching me."
+	},
+	{
+		"LABEL": "0x9FA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The images I saw in my dream reappear in vivid colours."
+	},
+	{
+		"LABEL": "0x9FEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't want to admit it. I can't admit it."
+	},
+	{
+		"LABEL": "0xA03B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Holding my aching head, I took a look around."
+	},
+	{
+		"LABEL": "0xA0D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......Ah."
+	},
+	{
+		"LABEL": "0xA117",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Our secret garden was no longer here."
+	},
+	{
+		"LABEL": "0xA164",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There was just an abandoned building covered in garbage. Countless flies buzzed about, and the smell was terrible."
+	},
+	{
+		"LABEL": "0xA1E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Paradise was not the right word to describe it. This place was more like... yes."
+	},
+	{
+		"LABEL": "0xA250",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hell."
+	},
+	{
+		"LABEL": "0xA285",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Suddenly, beside the corpse, I saw a vivid green object."
+	},
+	{
+		"LABEL": "0xA2EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─It was the earring that she always wore."
+	},
+	{
+		"LABEL": "0xA345",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A green six-sided cube."
+	},
+	{
+		"LABEL": "0xA382",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I picked it up with trembling hands."
+	},
+	{
+		"LABEL": "0xA3CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Then \"something\" broke inside me."
+	},
+	{
+		"LABEL": "0xA424",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My mind finally began to comphrehend the fact that Psico was dead."
+	},
+	{
+		"LABEL": "0xA485",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tears well up in my eyes. Already unstoppable. I can't stop them."
+	},
+	{
+		"LABEL": "0xA4E0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But having said that... I can't stop laughing as well."
+	},
+	{
+		"LABEL": "0xA52F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm far too absurd."
+	},
+	{
+		"LABEL": "0xA574",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Disgusting."
+	},
+	{
+		"LABEL": "0xA654",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xA662",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Never forget about me. Never.\""
+	},
+	{
+		"LABEL": "0xA6D3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xA6E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"We had a promise, a vow.\""
+	},
+	{
+		"LABEL": "0xA73C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xA74A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Forever and ever... Look at me and me alone.\""
+	},
+	{
+		"LABEL": "0xA7BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I heard Psicos's words over and over again in my head."
+	},
+	{
+		"LABEL": "0xA81B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh... I see, that's what she meant."
+	},
+	{
+		"LABEL": "0xA86E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZI finally realized the meaning when Psico said \"Look at me and me alone.\""
+	},
+	{
+		"LABEL": "0xA8EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─\"We'll always be together\" was a curse."
+	},
+	{
+		"LABEL": "0xA944",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psi...co..."
+	},
+	{
+		"LABEL": "0xA97B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Still... Even so, I..."
+	},
+	{
+		"LABEL": "0xA9C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Love her."
+	},
+	{
+		"LABEL": "0xAA07",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't run away anymore."
+	},
+	{
+		"LABEL": "0xAA56",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "While crying, while laughing, I held her tight."
+	},
+	{
+		"LABEL": "0xAAF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't really remember what happened after that."
+	},
+	{
+		"LABEL": "0xAB46",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had lost track of everything. All I had was the cold touch of the die which had belonged to the girl I loved."
+	},
+	{
+		"LABEL": "0xABC5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder who called the police."
+	},
+	{
+		"LABEL": "0xAC0E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The police came before I knew it, and separated me from Psico."
+	},
+	{
+		"LABEL": "0xAC81",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We'll never meet again."
+	},
+	{
+		"LABEL": "0xACC2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'll be lonely."
+	},
+	{
+		"LABEL": "0xAD05",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I'm a coward after all."
+	},
+	{
+		"LABEL": "0xAD4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Without you, I'm so weak."
+	},
+	{
+		"LABEL": "0xADA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What will happen to me when they bring me in?"
+	},
+	{
+		"LABEL": "0xADF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A trial? Incarceration? Or worst of all, the death penalty?"
+	},
+	{
+		"LABEL": "0xAE39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─But who cares."
+	},
+	{
+		"LABEL": "0xAE7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thinking about it is pointless."
+	},
+	{
+		"LABEL": "0xAF15",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I closed my eyes."
+	},
+	{
+		"LABEL": "0xAF52",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then I can see Psico again."
+	},
+	{
+		"LABEL": "0xAF9D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the darkness, a garden of white and green spreads out before me."
+	},
+	{
+		"LABEL": "0xAFEA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So, look."
+	},
+	{
+		"LABEL": "0xB027",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's waiting for me."
+	},
+	{
+		"LABEL": "0xB0F0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB0FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yes. It's fine, Metarou. You don't have to think about the painful things anymore.\""
+	},
+	{
+		"LABEL": "0xB18D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB19B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"How deep will you immerse yourself in me? How far will you go to seek me?"
+	},
+	{
+		"LABEL": "0xB21E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB22C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Never, ever, forget about me. Look at me and me alone.\""
+	},
+	{
+		"LABEL": "0xB2B1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB2BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I love you, Metarou.\""
+	},
+	{
+		"LABEL": "0xB306",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I turned my eyes away from reality. And fell into delusion and fiction."
+	},
+	{
+		"LABEL": "0xB369",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I, who had shut myself off from everything, held in my hand..."
+	},
+	{
+		"LABEL": "0xB3C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─A bright green die, showing the number 3."
+	},
+	{
+		"LABEL": "0xB5FB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB609",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Good morning. Good afternoon. Good evening. What time is it right now? I don't know."
+	},
+	{
+		"LABEL": "0xB728",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB736",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm? You seem a little perplexed."
+	},
+	{
+		"LABEL": "0xB793",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB7A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe you don't understand, but I'm the real one this time."
+	},
+	{
+		"LABEL": "0xB8A8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB8B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes. Psico. Hehe, it's nice to meet you."
+	},
+	{
+		"LABEL": "0xB9A7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xB9B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Eh? \"Aren't I dead already?\""
+	},
+	{
+		"LABEL": "0xBAA8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBAB6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes. I'm already dead. It seems that Metarou has come to another world. Is this heaven? Or is this hell?"
+	},
+	{
+		"LABEL": "0xBBF3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBC01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ufufu. It's been a long time since I've been able to talk with anyone. I'm so glad."
+	},
+	{
+		"LABEL": "0xBD08",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBD16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey hey, come hang out with me for a little bit. It'll be alright. It won't take much time."
+	},
+	{
+		"LABEL": "0xBD9D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBDAB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The end of \"this roll\" is just around the corner. So, until then... please?"
+	},
+	{
+		"LABEL": "0xBEB8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBEC6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Me? I loved Metarou."
+	},
+	{
+		"LABEL": "0xBF29",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xBF37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's always fun to be together with Metarou. Always happy. I've always wanted to be with him, that's what I thought."
+	},
+	{
+		"LABEL": "0xC062",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC070",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But you know? People leave for the slightest reason. Good friends can change so easily, don't they?"
+	},
+	{
+		"LABEL": "0xC109",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC117",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After a fight, sometimes you can't get back together. Surely you've had stories where you become distant after you graduated, or even because of work."
+	},
+	{
+		"LABEL": "0xC1A6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC1B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We used to be very close, but we somehow lost touch with each other, and we found ourselves drifting apart. Like that."
+	},
+	{
+		"LABEL": "0xC251",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC25F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In times like these, we can't do anything about it, because it's something that happens naturally, and we don't have a choice."
+	},
+	{
+		"LABEL": "0xC394",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC3A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─However, I didn't want that."
+	},
+	{
+		"LABEL": "0xC40D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC41B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted Metarou. None other than Metarou. I didn't want anyone else."
+	},
+	{
+		"LABEL": "0xC520",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC52E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because for me, there was only Metarou. Because Metarou was the only one who needed me."
+	},
+	{
+		"LABEL": "0xC653",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC661",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I abandoned myself and closed Metarou's eyes."
+	},
+	{
+		"LABEL": "0xC6D8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC6E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't care what anyone else thinks. Just look at me and me alone."
+	},
+	{
+		"LABEL": "0xC76B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC779",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why to him, my remains look just like me from when I was alive."
+	},
+	{
+		"LABEL": "0xC88A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC898",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But, as you know, it didn't work out perfectly. The \"Psico\" that Metarou sees only speaks the words that Metarou wants her to say."
+	},
+	{
+		"LABEL": "0xC94B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xC959",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know, that thing... Is really \"Metarou's ego\" wearing my skin, who gives Metarou all the things he wants."
+	},
+	{
+		"LABEL": "0xC9F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCA02",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In other words, a delusion. Or, desire."
+	},
+	{
+		"LABEL": "0xCA63",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCA71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's still \"me\", but..."
+	},
+	{
+		"LABEL": "0xCAE2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCAF0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's awful to love a thing that looks like \"me,\" but isn't me."
+	},
+	{
+		"LABEL": "0xCC05",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCC13",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Besides, after he had the dream, his vision had almost returned to normal anyway."
+	},
+	{
+		"LABEL": "0xCC8E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCC9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That woman's pursuit didn't help matters. Really, she did quite a needless thing. I'm sorry it didn't work out the way I thought it would."
+	},
+	{
+		"LABEL": "0xCDD3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCDE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hehe. But, but you know? The Metarou that clings to the \"me\" that isn't me is weak, pathetic, miserable, pitiful, and... you know what, I've come to love it."
+	},
+	{
+		"LABEL": "0xCEAE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCEBC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And besides, you know what? At the end, Metarou looked at me again."
+	},
+	{
+		"LABEL": "0xCF3F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xCF4D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He almost went back to normal, but then clung to delusion again. Oh my god, that Metarou is so cute and adorable."
+	},
+	{
+		"LABEL": "0xCFF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD004",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm glad I did this... that's what I thought."
+	},
+	{
+		"LABEL": "0xD0F8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD106",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Is this blindness? Dependency? I know that. It's okay, I don't care."
+	},
+	{
+		"LABEL": "0xD215",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD223",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Metarou cares about me, and I care about Metarou."
+	},
+	{
+		"LABEL": "0xD2AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD2BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For me, Metarou is more important than myself, and I love him very much."
+	},
+	{
+		"LABEL": "0xD339",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD347",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Remember what I told you before? \"I wanted Metarou. None other than Metarou.\""
+	},
+	{
+		"LABEL": "0xD3BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD3C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't care about other people."
+	},
+	{
+		"LABEL": "0xD4B7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD4C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eh? Why did I commit suicide?"
+	},
+	{
+		"LABEL": "0xD5B4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD5C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hehe. That's a maiden's secret, you know?"
+	},
+	{
+		"LABEL": "0xD6B1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD6BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whew. I'm sorry, that went on longer than I thought."
+	},
+	{
+		"LABEL": "0xD728",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD736",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just one more thing, okay? This is the last one."
+	},
+	{
+		"LABEL": "0xD829",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD837",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, you know. There's so many ways to close someone's eyes."
+	},
+	{
+		"LABEL": "0xD8A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD8B2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The point is that it should be strong and impactful enough to leave an impression on the other person."
+	},
+	{
+		"LABEL": "0xD92B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xD939",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's what it's all about, burn it into their eyes and they can't get away from it. I made quite a fiery, hot impression... didn't I?"
+	},
+	{
+		"LABEL": "0xDA52",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xDA60",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, you know. Your eyes might have been closed by someone without you even knowing it."
+	},
+	{
+		"LABEL": "0xDB75",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xDB83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Fufu, see you. Bye-bye."
+	},
+	{
+		"LABEL": "0xDC99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─I wished to be loved forever."
+	},
+	{
+		"LABEL": "0xDCEE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To live only in his memories and in his imagination, not in this reality."
+	},
+	{
+		"LABEL": "0xDD55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if it's a terribly stupid choice to throw your life away."
+	},
+	{
+		"LABEL": "0xDDBA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though I knew it was too early to abandon my body... I still wanted to have it, this one and only love."
+	},
+	{
+		"LABEL": "0xDE41",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted to be needed by someone."
+	},
+	{
+		"LABEL": "0xDE88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For that, I had to find someone who needs me."
+	},
+	{
+		"LABEL": "0xDED7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So─"
+	},
+	{
+		"LABEL": "0xDFC1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why I chose to burn my existence into your memory alone."
+	},
+	{
+		"LABEL": "0xE036",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I won't allow you to love another woman, so I made sure you would never forget me."
+	},
+	{
+		"LABEL": "0xE0B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I closed your eyes."
+	},
+	{
+		"LABEL": "0xE0F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wanted you to look at me alone."
+	},
+	{
+		"LABEL": "0xE145",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if no one else understands this line of thought... That's all right."
+	},
+	{
+		"LABEL": "0xE1C0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xE1CE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because you know... I, Psico, at last, has obtained one thing.\""
+	},
+	{
+		"LABEL": "0xE263",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xE271",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Psico... has obtained Metarou's heart.\""
+	},
+	{
+		"LABEL": "0xE5F6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "HAPPY END「Four Leaf Clover」"
+	},
+	{
+		"LABEL": "0xE628",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 10,
+		"STRING": "Clear Password Part 3:「tic」"
+	}
+]

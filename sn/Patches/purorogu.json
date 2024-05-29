@@ -1,0 +1,633 @@
+[
+	{
+		"LABEL": "0x4BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can hear the sound of the wind."
+	},
+	{
+		"LABEL": "0x4FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The grass sways in the gentle breeze, bringing with it the scent of white flowers."
+	},
+	{
+		"LABEL": "0x553",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A clear starry sky, which I hadn't seen in years, stretches endlessly across my eyes."
+	},
+	{
+		"LABEL": "0x5C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, that's right. "
+	},
+	{
+		"LABEL": "0x5E6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've finally reached the outside."
+	},
+	{
+		"LABEL": "0x643",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x653",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You've finally broken free from that place, haven't you?\""
+	},
+	{
+		"LABEL": "0x6B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A girl I knew well, whispered in a familiar voice."
+	},
+	{
+		"LABEL": "0x706",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Her young figure, a vision from a distant past."
+	},
+	{
+		"LABEL": "0x769",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x779",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You don't need to worry about him anymore.\""
+	},
+	{
+		"LABEL": "0x7E6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x7F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You are already free now. You can go wherever you wish.\""
+	},
+	{
+		"LABEL": "0x863",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Ah, I see. "
+	},
+	{
+		"LABEL": "0x886",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is that so..."
+	},
+	{
+		"LABEL": "0x8C3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After making many sacrifices, I had finally earned my freedom."
+	},
+	{
+		"LABEL": "0x936",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0x946",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The future is marked on the dice you roll... what will it look like?\""
+	},
+	{
+		"LABEL": "0x9C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well, I must proceed. "
+	},
+	{
+		"LABEL": "0x9E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To where the manifest gods and the foul rulers of this world are calling me... "
+	},
+	{
+		"LABEL": "0xCCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I hear the sound of water dripping."
+	},
+	{
+		"LABEL": "0xD0E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The air in this musty underground jail is choked with dust."
+	},
+	{
+		"LABEL": "0xD5D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why was I taken here? How long was I confined here? I can't remember."
+	},
+	{
+		"LABEL": "0xDDE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I feel like I've been in here for a very long time already..."
+	},
+	{
+		"LABEL": "0xE37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My cellmate is quietly playing with some stones in his hand, as usual."
+	},
+	{
+		"LABEL": "0xEAA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He is throwing a cube-shaped stone up high, and catching it."
+	},
+	{
+		"LABEL": "0xF08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's probably just a way of killing time. "
+	},
+	{
+		"LABEL": "0xF2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...There's no way out of here anyway."
+	},
+	{
+		"LABEL": "0xF94",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0xFA0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, you still alive?\""
+	},
+	{
+		"LABEL": "0xFEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The man's voice echoed throughout the silent cell."
+	},
+	{
+		"LABEL": "0x103B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He sometimes strikes a conversation like this. And each time I answer with something that seems appropriate."
+	},
+	{
+		"LABEL": "0x10C4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x10D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It looks like this cell is going to be cleared out tomorrow. It might be our last chance to get out of here.\""
+	},
+	{
+		"LABEL": "0x11A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The man held out one of his old dice, and showed it to me."
+	},
+	{
+		"LABEL": "0x121D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x1229",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Let's make a bet.\""
+	},
+	{
+		"LABEL": "0x127C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x1288",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"We each roll the die, and the bigger number wins.\""
+	},
+	{
+		"LABEL": "0x12F9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x1305",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The loser becomes the bait and lets the winner escape. How about it? Isn't it worth a try?\""
+	},
+	{
+		"LABEL": "0x1398",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x13A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You and me both, we're going to be executed soon. So what have you got to lose?\""
+	},
+	{
+		"LABEL": "0x1422",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm reluctant as he could be cheating, but I decide to take him up on his offer."
+	},
+	{
+		"LABEL": "0x149C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Anyway, it's going to be all over soon. "
+	},
+	{
+		"LABEL": "0x14CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There wasn't any hope from the start."
+	},
+	{
+		"LABEL": "0x1522",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x152E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's settled then. Well, please excuse me.\""
+	},
+	{
+		"LABEL": "0x15AB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He threw the die high in the air, and at last, it rolled on the ground."
+	},
+	{
+		"LABEL": "0x160A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The die's face revealed... 6."
+	},
+	{
+		"LABEL": "0x1661",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Man"
+	},
+	{
+		"LABEL": "0x166D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah... 6, is it.\""
+	},
+	{
+		"LABEL": "0x16B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have no way to win unless I roll another 6 and force a rematch."
+	},
+	{
+		"LABEL": "0x1747",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I gulped, and rolled the die."
+	},
+	{
+		"LABEL": "0x17F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The die's face revealed a..."
+	},
+	{
+		"LABEL": "0x183A",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 1,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x188F",
+				"STRING": "１"
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x1B03",
+				"STRING": "２"
+			},
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x1D59",
+				"STRING": "３"
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x1FAD",
+				"STRING": "４"
+			},
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x2227",
+				"STRING": "５"
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 0,
+				"JUMP_TO_LABEL": "0x24F6",
+				"STRING": "６"
+			}
+		]
+	},
+	{
+		"LABEL": "0x1905",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 1, huh..."
+	},
+	{
+		"LABEL": "0x1941",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "1. "
+	},
+	{
+		"LABEL": "0x1958",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the smallest number possible."
+	},
+	{
+		"LABEL": "0x199C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's the same as obtaining nothing. "
+	},
+	{
+		"LABEL": "0x19CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't even come close to him, who got the biggest number."
+	},
+	{
+		"LABEL": "0x1A20",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I felt inferior, like I'd never be able to catch up, and I was very disappointed in myself."
+	},
+	{
+		"LABEL": "0x1A99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I found myself sinking into the depths of despair."
+	},
+	{
+		"LABEL": "0x1B79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 2, huh..."
+	},
+	{
+		"LABEL": "0x1BB7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...2. "
+	},
+	{
+		"LABEL": "0x1BD2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Its power is a hair's breadth stronger than 1."
+	},
+	{
+		"LABEL": "0x1C1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Unfortunately, it's not nearly enough to win. In the end, is that all I'm capable of...?"
+	},
+	{
+		"LABEL": "0x1C96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I swallowed the curse words of regret and frustration deep within my chest."
+	},
+	{
+		"LABEL": "0x1CF5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In despair I tried to forget about the memories of my past life..."
+	},
+	{
+		"LABEL": "0x1DCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 3, huh..."
+	},
+	{
+		"LABEL": "0x1E0B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "3. "
+	},
+	{
+		"LABEL": "0x1E22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Its power is a hair's breadth stronger than 1."
+	},
+	{
+		"LABEL": "0x1E6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just stared at the old dice with my mouth agape and let my mind go blank."
+	},
+	{
+		"LABEL": "0x1EE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At that time I had not yet realized."
+	},
+	{
+		"LABEL": "0x1F3B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I left behind at the bottom of my heart a \"promise\" to my most important person――"
+	},
+	{
+		"LABEL": "0x2023",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 4, huh..."
+	},
+	{
+		"LABEL": "0x205F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...4. "
+	},
+	{
+		"LABEL": "0x2078",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It can't be said to be good or bad, a perfectly average result."
+	},
+	{
+		"LABEL": "0x20CD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But life is in the end all about results, so there is nothing to be praised about it."
+	},
+	{
+		"LABEL": "0x213A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Games, like other things, don't mean anything if I don't win... there is no meaning in loss."
+	},
+	{
+		"LABEL": "0x21B1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could only watch with sullen eyes as wealth and success slipped out of my grasp..."
+	},
+	{
+		"LABEL": "0x229D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 5, huh..."
+	},
+	{
+		"LABEL": "0x22DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...5. "
+	},
+	{
+		"LABEL": "0x22F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just one more step, and I could have brought this to a draw and rematch."
+	},
+	{
+		"LABEL": "0x2360",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But now I will not obtain anything. "
+	},
+	{
+		"LABEL": "0x2391",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I began to hate myself."
+	},
+	{
+		"LABEL": "0x23DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've always been like this. "
+	},
+	{
+		"LABEL": "0x241F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Always so close, but fail in the end."
+	},
+	{
+		"LABEL": "0x246F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's no use. "
+	},
+	{
+		"LABEL": "0x2488",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "How much longer must I tread the loser's path..."
+	},
+	{
+		"LABEL": "0x256C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My result was 6, huh..."
+	},
+	{
+		"LABEL": "0x25A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "6. "
+	},
+	{
+		"LABEL": "0x25BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I rolled the largest number possible."
+	},
+	{
+		"LABEL": "0x2603",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Alright, bring it on. "
+	},
+	{
+		"LABEL": "0x2634",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Luckily I can now have a rematch."
+	},
+	{
+		"LABEL": "0x2684",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But what will happen next? "
+	},
+	{
+		"LABEL": "0x26B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For someone shy like me, the next time may not go so well."
+	},
+	{
+		"LABEL": "0x2710",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Such anxiety passed through my mind as I looked at his fearless smile..."
+	}
+]
