@@ -1,0 +1,2057 @@
+[
+	{
+		"LABEL": "0x25E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My name is Metarou."
+	},
+	{
+		"LABEL": "0x2A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm just a normal second year student attending a private high school."
+	},
+	{
+		"LABEL": "0x2FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't have any particular skills, and my grades are merely average. I'm one of those people who're lacking in personality and individuality."
+	},
+	{
+		"LABEL": "0x381",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Speaking of which, right now my classmates are racking their heads over their career paths after graduation."
+	},
+	{
+		"LABEL": "0x3F0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're still second years though. I think it's a bit early to be thinking about our future..."
+	},
+	{
+		"LABEL": "0x465",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone's studying seriously, fearing a black mark on their report, so no one dares to stand out."
+	},
+	{
+		"LABEL": "0x4EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm the same, but I don't think there's any point in thinking about the future."
+	},
+	{
+		"LABEL": "0x56D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyways I don't even know where to begin to think about the future. Therefore, I'll just live each day as it comes."
+	},
+	{
+		"LABEL": "0x5D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, tomorrow, and certainly... in the years ahead."
+	},
+	{
+		"LABEL": "0x623",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "While I was walking around absentmindedly, someone pat my back."
+	},
+	{
+		"LABEL": "0x725",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x733",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Good morning, Metarou!\""
+	},
+	{
+		"LABEL": "0x809",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I turned around, I saw a couple holding each other's arms in a friendly manner."
+	},
+	{
+		"LABEL": "0x931",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x93F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yo. You're up early today.\""
+	},
+	{
+		"LABEL": "0xA0F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana and Yukimaru. They're both childhood friends of mine and we've known each other since kindergarten."
+	},
+	{
+		"LABEL": "0xA7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The three of us used to play together a lot because we lived in the same neighbourhood."
+	},
+	{
+		"LABEL": "0xAE1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As soon as she entered high school, it seems that Nana suddenly became aware of Yukimaru as a man."
+	},
+	{
+		"LABEL": "0xB4C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They haven't told me anything in particular, though."
+	},
+	{
+		"LABEL": "0xBA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh dear, I guess I'm being left out, aren't I? Not like you're hiding it or anything."
+	},
+	{
+		"LABEL": "0xBE8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The two of you, hand in hand... you've been showing off since the morning."
+	},
+	{
+		"LABEL": "0xC53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They seem to be getting along as well as ever. Really, they're perfect for each other."
+	},
+	{
+		"LABEL": "0xCB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't think there's any room for me to intervene. Of course, having said that..."
+	},
+	{
+		"LABEL": "0xD01",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xD3C",
+				"STRING": "Die, normies!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xD3C",
+				"STRING": "Break up already."
+			}
+		]
+	},
+	{
+		"LABEL": "0xDF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0xE04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah! Hey, Yukimaru. Isn't Metarou jealous of us?\""
+	},
+	{
+		"LABEL": "0xF89",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0xF97",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, poor thing... he's probably jealous of our lovey-doveyness.\""
+	},
+	{
+		"LABEL": "0x112E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x113C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Poor Metarou, he's too ugly so he's not popular, pff!\""
+	},
+	{
+		"LABEL": "0x12D3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x12E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, I know! Shall I act as his producer?\""
+	},
+	{
+		"LABEL": "0x13DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I dodged Nana's provocations neatly. ...However I'm annoyed on the inside."
+	},
+	{
+		"LABEL": "0x143F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm used to their sarcastic remarks. They're not bullies or anything, it's just the way they joke around."
+	},
+	{
+		"LABEL": "0x14B3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We've been messing around with each other a lot for a long time, so something like this is perfectly normal."
+	},
+	{
+		"LABEL": "0x1513",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1564",
+				"STRING": "You've got a messed up face too."
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1564",
+				"STRING": "You'll get dumped with such ugly personality."
+			}
+		]
+	},
+	{
+		"LABEL": "0x161E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x162C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah! Remember what I told you, Metarou? I'm not gonna invite you to karaoke anymore!\""
+	},
+	{
+		"LABEL": "0x17DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x17E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, I'm busy dating Yukimaru, so I don't even have time to play with you〜!\""
+	},
+	{
+		"LABEL": "0x198C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x199A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Come on come on, cut it out you two.\""
+	},
+	{
+		"LABEL": "0x1A87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru hesistantly comes between us with a sigh."
+	},
+	{
+		"LABEL": "0x1AE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He's always like that."
+	},
+	{
+		"LABEL": "0x1B23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After all, for better or worse, we're all childhood friends..."
+	},
+	{
+		"LABEL": "0x1C6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Normal days."
+	},
+	{
+		"LABEL": "0x1CA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In this uninteresting school, I was just one of many."
+	},
+	{
+		"LABEL": "0x1D06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just listen in class. Just study. Just talk with friends..."
+	},
+	{
+		"LABEL": "0x1D61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm not popular. I don't have a girlfriend. It's a really boring life..."
+	},
+	{
+		"LABEL": "0x1DC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Aren't the school years usually called \"youth\"?"
+	},
+	{
+		"LABEL": "0x1E1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You know, there's not a single element of this so-called \"youth\" in my life."
+	},
+	{
+		"LABEL": "0x1E80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "……"
+	},
+	{
+		"LABEL": "0x1EB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My student life..."
+	},
+	{
+		"LABEL": "0x1EEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is it okay to just let it end like this?"
+	},
+	{
+		"LABEL": "0x1F35",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've always hoped there would be something more exciting."
+	},
+	{
+		"LABEL": "0x21BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After school."
+	},
+	{
+		"LABEL": "0x21F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There was nothing much to do, so I stopped by a nearby park."
+	},
+	{
+		"LABEL": "0x2256",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I sat down on a bench and ate some yakisoba bread that I had bought at a convenience store earlier."
+	},
+	{
+		"LABEL": "0x22BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Their yakisoba bread has mayonnaise on it. I'm quite fond of it."
+	},
+	{
+		"LABEL": "0x233C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the park square, children are playing energetically."
+	},
+	{
+		"LABEL": "0x2395",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked towards the grass in the corner and saw an unfamiliar sight."
+	},
+	{
+		"LABEL": "0x23F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One girl is talking in front of a tripod."
+	},
+	{
+		"LABEL": "0x2455",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Mounted on the tripod was an expensive looking video camera. Those gadgets are quite expensive, aren't they?"
+	},
+	{
+		"LABEL": "0x24EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what she's taking videos of in a place like this, all by herself."
+	},
+	{
+		"LABEL": "0x255F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Could it be that Usatuber thing that's all the rage these days?"
+	},
+	{
+		"LABEL": "0x25B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Usatube\" is a very popular video sharing community."
+	},
+	{
+		"LABEL": "0x261E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In short, we call it \"Utube.\""
+	},
+	{
+		"LABEL": "0x2686",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a place where video contributors from all around the world gather."
+	},
+	{
+		"LABEL": "0x26D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The people who upload videos are commonly referred to as \"Usatubers\" or \"Utubers\"."
+	},
+	{
+		"LABEL": "0x27E7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x27F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Heeeyyy!\""
+	},
+	{
+		"LABEL": "0x28BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Eh?"
+	},
+	{
+		"LABEL": "0x28ED",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just realized, but the girl was looking at me and waving."
+	},
+	{
+		"LABEL": "0x294C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're not, uh... calling to me, are you?"
+	},
+	{
+		"LABEL": "0x29A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After looking around to confirm that she wasn't calling someone else, I pointed at myself."
+	},
+	{
+		"LABEL": "0x2ABE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x2ACC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, that's right, that's right! You, the guy over there!\""
+	},
+	{
+		"LABEL": "0x2BDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Apparently, it's really me that she's calling."
+	},
+	{
+		"LABEL": "0x2C3C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wh-why, I wonder... I mean, who is that girl..."
+	},
+	{
+		"LABEL": "0x2C93",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Was she an old classmate of mine? No, I don't remember anyone with that fancy hair colour..."
+	},
+	{
+		"LABEL": "0x2CFE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I decided to walk up to her slowly, even though I was suspicious."
+	},
+	{
+		"LABEL": "0x2E0E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x2E1C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Maaan〜〜〜〜, you're a lifesaver〜!\""
+	},
+	{
+		"LABEL": "0x2EFF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When she saw that I had arrived, the girl flashed a big smile that exposed her teeth."
+	},
+	{
+		"LABEL": "0x2F66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's dressed in a unique and quite revealing manner. Her hair, almost blonde, was tied into a ponytail hanging down."
+	},
+	{
+		"LABEL": "0x307F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x308D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey mister, sorry to bother you, but can you hold this for me?\""
+	},
+	{
+		"LABEL": "0x322E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x323C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sorry to ask you to do this all of a sudden! Just a short time is enough, please!\""
+	},
+	{
+		"LABEL": "0x333B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Without knowing why, I did as she asked."
+	},
+	{
+		"LABEL": "0x33B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After handing it to me, she went running off somewhere."
+	},
+	{
+		"LABEL": "0x3421",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Why, she was just looking for some help, wasn't she?"
+	},
+	{
+		"LABEL": "0x3484",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not like I know her or anything. Well, of course not... I was stupid to have even a little expectation."
+	},
+	{
+		"LABEL": "0x3505",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Speaking of which, what did she give to me?"
+	},
+	{
+		"LABEL": "0x3558",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Curious, I looked at the object I was holding."
+	},
+	{
+		"LABEL": "0x35AA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was holding a..."
+	},
+	{
+		"LABEL": "0x35D4",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 4,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x3CD8",
+				"STRING": "Large, round object."
+			},
+			{
+				"UNK0": 1,
+				"ID": 5,
+				"UNK1": 1,
+				"JUMP_TO_LABEL": "0x3615",
+				"STRING": "Small, black object."
+			}
+		]
+	},
+	{
+		"LABEL": "0x3659",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The thing she gave to me was a black, rugged... lump. The surface has bumps like the shell of a turtle."
+	},
+	{
+		"LABEL": "0x374C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "…"
+	},
+	{
+		"LABEL": "0x37C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh? Where have I seen this shape before..."
+	},
+	{
+		"LABEL": "0x3862",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah... That's right, this is a grenade...!!"
+	},
+	{
+		"LABEL": "0x38BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't notice it at all because the very idea of it was unrealistic."
+	},
+	{
+		"LABEL": "0x391C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By the time I thought that far ahead, it was too late."
+	},
+	{
+		"LABEL": "0x3B35",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My body was scattered to pieces in an instant."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "BAD END「Terrorist」"
+	},
+	{
+		"LABEL": "0x3D3E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What the girl gave me was a large number of balloons filled with helium. If I let go of them, they would fly away."
+	},
+	{
+		"LABEL": "0x3DCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see. She was having trouble trying to find something to fix these balloons to, I guess?"
+	},
+	{
+		"LABEL": "0x3E34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It must be tough being a one-man operation. I'm not too clear on the details, but I'm sure there're lots of difficulties and painful things behind the scenes."
+	},
+	{
+		"LABEL": "0x3F17",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After waiting for a while, she came back with a bucket."
+	},
+	{
+		"LABEL": "0x403F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x404D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sorry, my bad! Thanks mister, you totally saved me!\""
+	},
+	{
+		"LABEL": "0x413E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I looked at her dubiously."
+	},
+	{
+		"LABEL": "0x4189",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's a pretty poor attitude to have after getting someone to do something for you. Sheesh... youngsters these days."
+	},
+	{
+		"LABEL": "0x42A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x42B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Man, I'm sorry! I'm in the middle of filming a video. Right now, my hands are full...\""
+	},
+	{
+		"LABEL": "0x4467",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x4475",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So I was in big trouble, and then, bam, you were right there! You're really a big help! You're my saviour!\""
+	},
+	{
+		"LABEL": "0x4596",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A video... As I thought, she's a Usatuber. These days their numbers have certainly grown... I see people filming all over the city."
+	},
+	{
+		"LABEL": "0x4627",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But only a handful of them can become famous, and it's probably quite a difficult world for newcomers. This is merely my opinion as an outsider though."
+	},
+	{
+		"LABEL": "0x46BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if there are a lot of young people who dream of living a free life even in these times."
+	},
+	{
+		"LABEL": "0x4739",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Compared to me who doesn't have any dreams, I think it's very admirable that they take concrete actions instead of just dreaming about it."
+	},
+	{
+		"LABEL": "0x47C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "By the way, I wondered what the balloons were used for. Curious, I decided to ask her."
+	},
+	{
+		"LABEL": "0x4835",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 6,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x4876",
+				"STRING": "What kind of video?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 7,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x4876",
+				"STRING": "What're the balloons used for?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x4954",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x4962",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oho! Are you curious〜?! Do you wanna know〜?! As a special service, I'll tell you!\""
+	},
+	{
+		"LABEL": "0x4B1D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x4B2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"'Can humans fly with a large number of balloons?!' I'm gonna test the heck out of that today! Wild, isn't it?\""
+	},
+	{
+		"LABEL": "0x4C3F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "…"
+	},
+	{
+		"LABEL": "0x4C6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"There's no way that can happen,\" I wanted to retort..."
+	},
+	{
+		"LABEL": "0x4CDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see. Is this one of the popular so-called \"mythbusting\" videos?"
+	},
+	{
+		"LABEL": "0x4D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can easily imagine men doing stunts like these, but it's surprising to me that a slender woman like her is also doing it."
+	},
+	{
+		"LABEL": "0x4E55",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x4E63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oops, I'm late introducing myself! I'm sure you already know me, but as this is a special occasion...\""
+	},
+	{
+		"LABEL": "0x4F62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She sucked in some air and her demeanour changed, as if a switch had been flipped."
+	},
+	{
+		"LABEL": "0x506B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5079",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hello, Usatube! The roll of the dice is four! God knows, Earth knows, I know, You know!\""
+	},
+	{
+		"LABEL": "0x523E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x524C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Welcome〜! It's the myth-busting Usatuber 'Cycoh%R(4,Saiko)' live on the Hanabishi Channel, yo〜!\""
+	},
+	{
+		"LABEL": "0x53F6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5404",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...How's that? I don't usually do that much fan service you know! You'd better be thankful.\""
+	},
+	{
+		"LABEL": "0x550B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "………"
+	},
+	{
+		"LABEL": "0x55CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...\""
+	},
+	{
+		"LABEL": "0x572B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5739",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Oho?\""
+	},
+	{
+		"LABEL": "0x5812",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5820",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Mmm, so. You. Perhaps, by some very small chance, don't know... who I am?\""
+	},
+	{
+		"LABEL": "0x5906",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 8,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x5953",
+				"STRING": "Of course I do... Who are you again?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 9,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x5953",
+				"STRING": "I've never heard that name, yo."
+			}
+		]
+	},
+	{
+		"LABEL": "0x5A31",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5A3F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Woaahhhh〜 Seriousssllly?!!!\""
+	},
+	{
+		"LABEL": "0x5B1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Cycoh was quite embarrassed, her face flushed bright red."
+	},
+	{
+		"LABEL": "0x5B77",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I guess the hype from being in-character was starting to fade..."
+	},
+	{
+		"LABEL": "0x5C8E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5C9C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh jeez... I've caused a serious misunderstanding! Shit, I'm so embarrassed!!\""
+	},
+	{
+		"LABEL": "0x5D99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But still, that's kind of cringe. When I think about doing that at the beginning of every video, it makes me feel second-hand embarrassment."
+	},
+	{
+		"LABEL": "0x5E42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Without a doubt, this kid is posting a lot of stuff on Usatube that she's going to regret. "
+	},
+	{
+		"LABEL": "0x5F5A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x5F68",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well, who cares! If there're people who don't know me, then I guess I'm still not quite there yet!\""
+	},
+	{
+		"LABEL": "0x610F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x611D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You just watch me, I'm going to get even bigger... and then I'll show you!"
+	},
+	{
+		"LABEL": "0x6214",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know if she's famous online or completely unknown..."
+	},
+	{
+		"LABEL": "0x6269",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyway, I just know that she's full of energy. Constantly switching moods."
+	},
+	{
+		"LABEL": "0x6380",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x638E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...By the way, what's your name〜?\""
+	},
+	{
+		"LABEL": "0x645A",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 10,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6496",
+				"STRING": "Helloooo, Usatube!!"
+			},
+			{
+				"UNK0": 1,
+				"ID": 11,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6496",
+				"STRING": "It's Metarou, yo."
+			}
+		]
+	},
+	{
+		"LABEL": "0x6574",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x6582",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hahahaha!!! Metarou, you're one funny guy! I like you!!\""
+	},
+	{
+		"LABEL": "0x667F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Following her lead, I introduced myself in a funny way."
+	},
+	{
+		"LABEL": "0x66DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It seems Cycoh has taken a liking to me."
+	},
+	{
+		"LABEL": "0x672D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't usually fool around like this... but I kind of wanted to try it."
+	},
+	{
+		"LABEL": "0x683C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x684A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Ha! Now ain't the time for this! I gotta make today's video, quickly〜!\""
+	},
+	{
+		"LABEL": "0x6951",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Cycoh's mouth opened wide like in a gag comedy as she hurriedly began her preparations."
+	},
+	{
+		"LABEL": "0x69BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I watched the girl busily filming with a blank stare."
+	},
+	{
+		"LABEL": "0x6A25",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She has to think of an idea, prepare and present all by herself..."
+	},
+	{
+		"LABEL": "0x6A7C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It really looks rough..."
+	},
+	{
+		"LABEL": "0x6AA8",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 12,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6AF1",
+				"STRING": "Is there anything I can do?"
+			},
+			{
+				"UNK0": 1,
+				"ID": 13,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x6AF1",
+				"STRING": "Um... Need some help?"
+			}
+		]
+	},
+	{
+		"LABEL": "0x6BAB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x6BB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You serious?! You'll help a sister out?! Man, you're a super cool guy!!\""
+	},
+	{
+		"LABEL": "0x6D54",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x6D62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Thanks, you're a lifesaver!! It was quite tough doing this all alone.\""
+	},
+	{
+		"LABEL": "0x6E55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was saying it half as a joke, but I was happy to help. I could see it was hard for her..."
+	},
+	{
+		"LABEL": "0x6ECC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't have anything to do anyway, so this is a good way to pass the time."
+	},
+	{
+		"LABEL": "0x6F2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "All's said and done, I'm going to help her."
+	},
+	{
+		"LABEL": "0x6F8E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She told me that if she started to float, the wind might blow her away. When that happened, she wanted me to follow her with my camera."
+	},
+	{
+		"LABEL": "0x7015",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...No, I don't think you need to worry about that! ...Pff."
+	},
+	{
+		"LABEL": "0x707A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Holding back a laugh, I gladly did as she asked anyway."
+	},
+	{
+		"LABEL": "0x7144",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The balloons are filled with helium gas and inflated, a tedious but essential task."
+	},
+	{
+		"LABEL": "0x724E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x725C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hahaha!! Why, Metarou, so you're my age〜. Why didn't you say so earlier!\""
+	},
+	{
+		"LABEL": "0x740D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x741B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I haven't been to school in a long time so my sense of the days of the week is all messed up! Haha, I do this every day! It's funny, isn't it? I'm a genuine idiot!\""
+	},
+	{
+		"LABEL": "0x755E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "During this, she talked to me several times, making me laugh."
+	},
+	{
+		"LABEL": "0x75B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't usually laugh this much, and I'm starting to feel a little weird about it."
+	},
+	{
+		"LABEL": "0x7632",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was kinda like being a kid again."
+	},
+	{
+		"LABEL": "0x7689",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "They're balloons you can buy in a store, around 30 in all. ...I attached all those balloons to her body."
+	},
+	{
+		"LABEL": "0x7704",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And finally, the experiment begins, and Cycoh starts to lift off..."
+	},
+	{
+		"LABEL": "0x775D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Or, she should have."
+	},
+	{
+		"LABEL": "0x7798",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Cycoh's body didn't even budge an inch."
+	},
+	{
+		"LABEL": "0x7866",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x786E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...\""
+	},
+	{
+		"LABEL": "0x79D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x79DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Maybe there weren't enough balloons?\""
+	},
+	{
+		"LABEL": "0x7AC6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't think I need to tell you that... this was a doomed endeavour from the start."
+	},
+	{
+		"LABEL": "0x7BDB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x7BE9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, how 'bout this!! What if I had a folding chair or a bath stool instead?!\""
+	},
+	{
+		"LABEL": "0x7CEC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If you really want this to work, you should use military-grade balloons or giant balloons."
+	},
+	{
+		"LABEL": "0x7D65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I told her my honest opinion."
+	},
+	{
+		"LABEL": "0x7ECE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x7EDC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, you... dumbass!! Why didn't you tell me that at the start〜〜〜!!!\""
+	},
+	{
+		"LABEL": "0x7FE2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She tells me off in a hysterical voice as she pats me on the shoulder."
+	},
+	{
+		"LABEL": "0x803B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, no, no, we just met today... there's no way I could have warned you beforehand."
+	},
+	{
+		"LABEL": "0x80A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I bet she'll use this scene as the punchline of the video..."
+	},
+	{
+		"LABEL": "0x8105",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't honestly say whether she's a genius or an idiot, but I laugh because her antics can be so dumb."
+	},
+	{
+		"LABEL": "0x8182",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For the most part, I'd rather just go about my life as normal..."
+	},
+	{
+		"LABEL": "0x81DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But sometimes, it seems like it's not so bad to get involved with a girl like Cycoh."
+	},
+	{
+		"LABEL": "0x82E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In the meantime, it had already become dusk."
+	},
+	{
+		"LABEL": "0x8340",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't believe it's been so long since my yakisoba bread time."
+	},
+	{
+		"LABEL": "0x83A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I guess if you had fun doing it, even simple work goes by faster than you would have thought..."
+	},
+	{
+		"LABEL": "0x84B3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x84C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Thanks for helping me out today! Having you as an assistant is seriously a godsend!\""
+	},
+	{
+		"LABEL": "0x85C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, no, no, I'm sure I didn't help that much, you're exaggerating..."
+	},
+	{
+		"LABEL": "0x8633",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But if you were thanked with a big smile like that, you couldn't possibly feel bad, could you?"
+	},
+	{
+		"LABEL": "0x8734",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x8742",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Maybe it's high time for me to get an assistant...?! Hehe, what can I say?\""
+	},
+	{
+		"LABEL": "0x88E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x88F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well then, I'll see you around, Metarou!\""
+	},
+	{
+		"LABEL": "0x89FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After packing her large items into her rucksack, Cycoh headed for the park exit."
+	},
+	{
+		"LABEL": "0x8A70",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I wonder if she does this all the time by herself."
+	},
+	{
+		"LABEL": "0x8AC7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if it's about the numbers. Like monetization, for example... I think I'd lose motivation if I didn't make a penny."
+	},
+	{
+		"LABEL": "0x8B5C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Or maybe she's just doing it as a hobby, enjoying her youth without worrying about the money."
+	},
+	{
+		"LABEL": "0x8BE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's a doofus, so it's not impossible... That it's not about monetary gain."
+	},
+	{
+		"LABEL": "0x8C6C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x8C7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"He〜y!\""
+	},
+	{
+		"LABEL": "0x8D44",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I looked in the direction of the voice, I saw Cycoh looking at me, waving her hands high up in the air."
+	},
+	{
+		"LABEL": "0x8DB9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...You're still here?"
+	},
+	{
+		"LABEL": "0x8EA2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x8EB0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I forgot to tell you〜! Please subscribe to my channel〜!\""
+	},
+	{
+		"LABEL": "0x8FA6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Yes, yes."
+	},
+	{
+		"LABEL": "0x8FDF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I waved my hand back at her, half amused, half exasperated."
+	},
+	{
+		"LABEL": "0x9291",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hah, today was more tiring than usual."
+	},
+	{
+		"LABEL": "0x92D6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I returned home and laid on my bed."
+	},
+	{
+		"LABEL": "0x932D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe it's because I did stuff that I don't usually do, but I feel like I'm really tired today."
+	},
+	{
+		"LABEL": "0x93A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I think I'm gonna fall asleep at this rate..."
+	},
+	{
+		"LABEL": "0x93F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Ah!"
+	},
+	{
+		"LABEL": "0x9478",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pull out my phone as I remembered."
+	},
+	{
+		"LABEL": "0x94CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I almost forgot. Let's look up Cycoh on Usatube."
+	},
+	{
+		"LABEL": "0x952C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hanabishi Channel, Cycoh..."
+	},
+	{
+		"LABEL": "0x9573",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Usatube Channel, 580... thousand subscribers?!!?"
+	},
+	{
+		"LABEL": "0x95CB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With no limit in the number of competitors, it's no easy task for an amateur to reach this number."
+	},
+	{
+		"LABEL": "0x965A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What... I-I think I've just met someone amazing."
+	},
+	{
+		"LABEL": "0x96BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's hard to believe, but that's what it is."
+	},
+	{
+		"LABEL": "0x9716",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh no, because she said we're the same age, I carelessly spoke to her casually instead of being respectful."
+	},
+	{
+		"LABEL": "0x978F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When she was talking about not going to school... I thought she was just a delinquent pretending to be a Usatuber."
+	},
+	{
+		"LABEL": "0x980C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyway, I never thought I'd be able to get close to such an amazing person. Maybe I'm just super lucky?"
+	},
+	{
+		"LABEL": "0x989B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I play my cards right, maybe I can become friends with her..."
+	},
+	{
+		"LABEL": "0x98F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I could feel such deviousness sprouting somewhere in my head."
+	},
+	{
+		"LABEL": "0x9953",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I couldn't contain my excitement. That night, I spent all my time watching Cycoh's videos."
+	},
+	{
+		"LABEL": "0x9C6B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Under the deep blue starry sky."
+	},
+	{
+		"LABEL": "0x9CAC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A girl illuminated by the twinkling stars was talking with a boy."
+	},
+	{
+		"LABEL": "0x9D1F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x9D2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Here, for you.\""
+	},
+	{
+		"LABEL": "0x9D82",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0x9D90",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's this. ...Dice?\""
+	},
+	{
+		"LABEL": "0x9DED",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x9DFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, if you're ever in trouble, you should give it a roll.\""
+	},
+	{
+		"LABEL": "0x9E6C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0x9E7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Huh, you want me to ask God for help?\""
+	},
+	{
+		"LABEL": "0x9EE3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x9EF1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, yes. That's right, if you're in trouble, you should ask God.\""
+	},
+	{
+		"LABEL": "0x9F70",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0x9F7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"This six-sided cube always gives the right answer.\""
+	},
+	{
+		"LABEL": "0x9FF3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA001",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"We can't resist the fate that God has set for us. Because that's how he made it.\""
+	},
+	{
+		"LABEL": "0xA096",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA0A4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But if you want to defy fate, you have to roll the largest number you can.\""
+	},
+	{
+		"LABEL": "0xA117",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA125",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...How?\""
+	},
+	{
+		"LABEL": "0xA178",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA186",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Did you know? When you add up the front and back of a die, it always comes out to the number seven.\""
+	},
+	{
+		"LABEL": "0xA20D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA21B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please don't ever forget that.\""
+	},
+	{
+		"LABEL": "0xA28A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA298",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's a magic charm... to help you obtain glory.\""
+	},
+	{
+		"LABEL": "0xA309",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA317",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Are you an idiot?\""
+	},
+	{
+		"LABEL": "0xA372",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA380",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ahaha. How cruel of you.\""
+	},
+	{
+		"LABEL": "0xA3D9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA3E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"If such a thing could save me, I wouldn't be in this much pain.\""
+	},
+	{
+		"LABEL": "0xA468",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA476",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, it's just a comforting thought to have.\""
+	},
+	{
+		"LABEL": "0xA4DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA4E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I hope I die soon.\""
+	},
+	{
+		"LABEL": "0xA54C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA55A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why?\""
+	},
+	{
+		"LABEL": "0xA5A9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA5B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The reason doesn't really matter. It's just a rationalization after the fact.\""
+	},
+	{
+		"LABEL": "0xA62E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA63C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Are there really people who wish to die for no particular reason?\""
+	},
+	{
+		"LABEL": "0xA6AD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA6BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"At the very least I don't want to die for such a vague reason. I can come up with a good reason every day.\""
+	},
+	{
+		"LABEL": "0xA75A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA768",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...It's got nothing to do with you.\""
+	},
+	{
+		"LABEL": "0xA7D5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA7E3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You don't need to hide it like that. You're really not honest with yourself.\""
+	},
+	{
+		"LABEL": "0xA864",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA872",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is it because your mother and father don't love you?\""
+	},
+	{
+		"LABEL": "0xA8E1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xA8EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...That's one thing, but there's something more.\""
+	},
+	{
+		"LABEL": "0xA95C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA96A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Then, maybe it's something that happened at school?\""
+	},
+	{
+		"LABEL": "0xA9D3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xA9E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I must have hit the mark.\""
+	},
+	{
+		"LABEL": "0xAA34",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xAA42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"They made fun of me all the time. They splashed water on me every day.\""
+	},
+	{
+		"LABEL": "0xAABD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xAACB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"They beat me up, kicked me, fed bugs to me, hurt me until I couldn't move.\""
+	},
+	{
+		"LABEL": "0xAB74",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xAB82",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's funny, who would want to live after being bullied so badly?\""
+	},
+	{
+		"LABEL": "0xAC15",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xAC23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I don't even think about falling in love, there's no point in that anymore. Gender is something makes no sense to me.\""
+	},
+	{
+		"LABEL": "0xACD2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Boy"
+	},
+	{
+		"LABEL": "0xACE0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A lot of times I've wanted to die, to disappear. Maybe I'm just not cut out for this world.\""
+	},
+	{
+		"LABEL": "0xAD79",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Girl"
+	},
+	{
+		"LABEL": "0xAD87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But yet... you couldn't bring yourself to tell anyone, did you?\""
+	}
+]

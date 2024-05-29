@@ -1,0 +1,3734 @@
+[
+	{
+		"LABEL": "0x42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The number I rolled was─"
+	},
+	{
+		"LABEL": "0x81",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%Z1."
+	},
+	{
+		"LABEL": "0x15F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x16F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"1, I see.\""
+	},
+	{
+		"LABEL": "0x23B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just want to know what possibilities lie in store for that girl."
+	},
+	{
+		"LABEL": "0x330",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x340",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A scarred girl, immersed in loneliness and therefore desperate for her one and only love.\""
+	},
+	{
+		"LABEL": "0x4DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x4EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wonder what kind of potential had been lying in that girl?\""
+	},
+	{
+		"LABEL": "0x67A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x68A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well then, close your eyes.\""
+	},
+	{
+		"LABEL": "0x85B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My name is Metarou."
+	},
+	{
+		"LABEL": "0x89E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZI'm just a normal second year student attending a private high school."
+	},
+	{
+		"LABEL": "0x8FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't have any particular skills, and my grades are merely average. "
+	},
+	{
+		"LABEL": "0x943",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm one of those people who're lacking in personality and individuality."
+	},
+	{
+		"LABEL": "0x990",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Speaking of which, right now my classmates are racking their heads over their career paths after graduation."
+	},
+	{
+		"LABEL": "0x9FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're still second years though. I think it's a bit early to be thinking about our future..."
+	},
+	{
+		"LABEL": "0xA74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone's studying seriously, and no one is stupid enough to do anything to stand out from the crowd because they're worried about getting a black mark on their school report."
+	},
+	{
+		"LABEL": "0xAFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm the same, but I don't think there's any point in thinking about the future."
+	},
+	{
+		"LABEL": "0xB7C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyways I don't even know where to begin to think about the future. Therefore, I'll just live each day as it comes."
+	},
+	{
+		"LABEL": "0xBE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, tomorrow, and certainly... in the years ahead."
+	},
+	{
+		"LABEL": "0xC46",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xC56",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Good morning.\""
+	},
+	{
+		"LABEL": "0xC9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As I was walking to school, suddenly someone called out to me."
+	},
+	{
+		"LABEL": "0xD8E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I turned around, there was a purple-haired girl standing there with a serene expression on her face."
+	},
+	{
+		"LABEL": "0xE9F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0xEAD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm glad to see you're doing well, Metarou-kun.\""
+	},
+	{
+		"LABEL": "0xF79",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 0,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0xFC2",
+				"STRING": "Good morning, Tsykho."
+			},
+			{
+				"UNK0": 1,
+				"ID": 1,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x1153",
+				"STRING": "My girlfriend is cute today as well..."
+			}
+		]
+	},
+	{
+		"LABEL": "0x107C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x108A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, it's another beautiful day today, isn't it?\""
+	},
+	{
+		"LABEL": "0x120D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x121B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Wha... Please don't make fun of me, geez. Isn't that embarrassing...?\""
+	},
+	{
+		"LABEL": "0x131A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This girl's name is Tsykho, and she's my girlfriend."
+	},
+	{
+		"LABEL": "0x1369",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We started going out rather recently, after she had transferred to our school, when she confessed her feelings for me."
+	},
+	{
+		"LABEL": "0x13F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course, I didn't have a single reason to refuse her, so I accepted her confession."
+	},
+	{
+		"LABEL": "0x1465",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Rather than that... when we first met, I had a strange feeling that this wasn't my first time meeting Tsykho."
+	},
+	{
+		"LABEL": "0x14EA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I was able to accept her confession easily."
+	},
+	{
+		"LABEL": "0x1541",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thinking about it, I must have already fallen for her long before her confession."
+	},
+	{
+		"LABEL": "0x15AE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I still can't forget the tearful look of joy on Tsykho's face when I said yes."
+	},
+	{
+		"LABEL": "0x16BB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x16C9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Today I put your favourite food in this lunch box, will you eat it... for me?\""
+	},
+	{
+		"LABEL": "0x17DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Of course. I mean, everything that you make is delicious, so how could I not eat it?"
+	},
+	{
+		"LABEL": "0x18F5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x1903",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is... that true? Eheheh... I'm happy that you said that.\""
+	},
+	{
+		"LABEL": "0x1A00",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho's really a great cook, and since we started dating, I've been eating her homemade lunches with her every break."
+	},
+	{
+		"LABEL": "0x1A91",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She seems to be good not only at cooking, but at housework in general. My god, she's the ideal girl."
+	},
+	{
+		"LABEL": "0x1B00",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not only do we have lunch together every day, but we also head to school and go back together like this."
+	},
+	{
+		"LABEL": "0x1B7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh.... really, is it okay for such a good girl to be my girlfriend?"
+	},
+	{
+		"LABEL": "0x1BDC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure someone like her's too good for someone like me..."
+	},
+	{
+		"LABEL": "0x1CF3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x1D01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Ah, Metarou-kun. You just belittled yourself, didn't you?\""
+	},
+	{
+		"LABEL": "0x1E94",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x1EA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You're thinking something like 'Compared to her, I can't match up', right?\""
+	},
+	{
+		"LABEL": "0x1F99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ugh... am I busted?"
+	},
+	{
+		"LABEL": "0x2076",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x2084",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Of course. There's no point in keeping secrets from me.\""
+	},
+	{
+		"LABEL": "0x2209",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x2217",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I know everything there is to know about you, Metarou-kun.\""
+	},
+	{
+		"LABEL": "0x2310",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Yes, Tsykho's right, when it comes to matters concerning me, she's very sharp."
+	},
+	{
+		"LABEL": "0x2387",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Almost like she can read my mind."
+	},
+	{
+		"LABEL": "0x23DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I felt as if she could see through everything, but strangely enough I didn't mind that."
+	},
+	{
+		"LABEL": "0x24EB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x24F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sheesh... Listen, Metarou-kun.\""
+	},
+	{
+		"LABEL": "0x2680",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x268E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I think you are fine just as is, because without Metarou-kun, I'm a completely useless person.\""
+	},
+	{
+		"LABEL": "0x2833",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x2841",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've finally caught you... so I won't let you go. So please disabuse yourself of any such notion.\""
+	},
+	{
+		"LABEL": "0x2954",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My girlfriend is someone who can say horrible things while smiling and laughing cutely."
+	},
+	{
+		"LABEL": "0x29C1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I guess there's no getting away from this one, huh?"
+	},
+	{
+		"LABEL": "0x2A16",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Normally speaking, when being told off, people would instinctively have a reaction of dislike or rejection."
+	},
+	{
+		"LABEL": "0x2A89",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm not sure how to put it, but when I see how happy Tsykho looks, I don't feel that way."
+	},
+	{
+		"LABEL": "0x2AF8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Then suddenly, Tsykho hugged my arm."
+	},
+	{
+		"LABEL": "0x2BEB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x2BF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Come on, let's go, Metarou-kun!\""
+	},
+	{
+		"LABEL": "0x2CDE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, such a sweet exchange, it's a scene that is becoming more and more common."
+	},
+	{
+		"LABEL": "0x2D3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm going through a happy routine today as well... together with Tsykho."
+	},
+	{
+		"LABEL": "0x2D9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I guess this everyday life will continue for a long time to come."
+	},
+	{
+		"LABEL": "0x2DFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If that's the case, I'd be very happy."
+	},
+	{
+		"LABEL": "0x2FE0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x2FEE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's up, Metarou, Tsykho-chan?\""
+	},
+	{
+		"LABEL": "0x30D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I entered the classroom, my childhood friend Yukimaru spoke to me."
+	},
+	{
+		"LABEL": "0x31D1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x31DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You two are lovey-dovey today too, aren't you?\""
+	},
+	{
+		"LABEL": "0x3386",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3394",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Good morning, Yukimaru-san.\""
+	},
+	{
+		"LABEL": "0x3513",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x3521",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey Tsykho-chan, why did you choose Metarou? I think there are better men out there.\""
+	},
+	{
+		"LABEL": "0x36D0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x36DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"For example... Look, right here.\""
+	},
+	{
+		"LABEL": "0x385E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x386C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Really... You never learn, either. Do you want to go through that harsh lesson, a・ga・in?\""
+	},
+	{
+		"LABEL": "0x3A1F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3A2D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"If possible, I'd rather not have to do such a thing in front of him.\""
+	},
+	{
+		"LABEL": "0x3BCA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x3BD8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ugh... hahaha, I'm kidding, I'm kidding!\""
+	},
+	{
+		"LABEL": "0x3D60",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3D6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, then please don't ever say anything like that again.\""
+	},
+	{
+		"LABEL": "0x3F07",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3F15",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I don't know what I would have done if you hadn't been a friend of Metarou-kun's...\""
+	},
+	{
+		"LABEL": "0x40C2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x40D0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Y-yes, ma'am...\""
+	},
+	{
+		"LABEL": "0x41D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru then walks up to me and whispers in my ear."
+	},
+	{
+		"LABEL": "0x42D9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x42E7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou... You're really going to get stabbed someday, you know? That girl's trouble, I tell you...\""
+	},
+	{
+		"LABEL": "0x43F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No matter how I think about it, it's because it's your own fault."
+	},
+	{
+		"LABEL": "0x444A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho's usually not like that at all."
+	},
+	{
+		"LABEL": "0x4497",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You can't mess with people's girlfriends. Even though it's you, Yukimaru, I'd be pissed too."
+	},
+	{
+		"LABEL": "0x45A6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x45B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, well, I'm sorry, too...\""
+	},
+	{
+		"LABEL": "0x4735",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x4743",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Jeez, you couples can't take a joke.\""
+	},
+	{
+		"LABEL": "0x482F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's not a joke when it comes to you and women, that's what."
+	},
+	{
+		"LABEL": "0x492E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x493C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, I feel a painful glare coming from Tsykho-chan, so I guess I'll be getting outta here. See you later.\""
+	},
+	{
+		"LABEL": "0x4A69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru was right, Tsykho had her gaze set on Yukimaru. If looks could kill..."
+	},
+	{
+		"LABEL": "0x4AF2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As soon as Yukimaru returned to his seat, Tsykho approached me."
+	},
+	{
+		"LABEL": "0x4BFA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x4C08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Are you all right, Metarou-kun? Did he say anything to you?\""
+	},
+	{
+		"LABEL": "0x4CFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "No, we were just having a chat, don't worry about it."
+	},
+	{
+		"LABEL": "0x4DF6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x4E04",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, then that's fine then...\""
+	},
+	{
+		"LABEL": "0x4F7B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x4F89",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"If he does anything to you, please let me know. I'll help you out...!\""
+	},
+	{
+		"LABEL": "0x507E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yep, I got it. Thanks, Tsykho."
+	},
+	{
+		"LABEL": "0x50CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... Tsykho, I hope you can rely on me more too."
+	},
+	{
+		"LABEL": "0x512E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You don't have to keep everything to yourself."
+	},
+	{
+		"LABEL": "0x521F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x522D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...! ...Y-yes. I'll keep it in mind...\""
+	},
+	{
+		"LABEL": "0x5314",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When I said so, Tsykho's face instantly turned red and looked downwards."
+	},
+	{
+		"LABEL": "0x5381",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...I'm the only one who gets to see this side of Tsykho, or rather she'll only show it to me."
+	},
+	{
+		"LABEL": "0x53FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so happy to have her like this all to myself - or so I thought."
+	},
+	{
+		"LABEL": "0x5576",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─After school."
+	},
+	{
+		"LABEL": "0x55AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was on my way home together with Tsykho."
+	},
+	{
+		"LABEL": "0x5600",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho and I live in the same apartment building, and our rooms are right next to each other."
+	},
+	{
+		"LABEL": "0x5667",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was surprised at first, but now that we've started dating, it's the best thing that could have happened."
+	},
+	{
+		"LABEL": "0x56DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho and I walk side by side."
+	},
+	{
+		"LABEL": "0x571F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's only a short walk from school to our home, but it's one of the most important times for us."
+	},
+	{
+		"LABEL": "0x5833",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x5841",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's been another day, hasn't it? How was your day, Metarou-kun?\""
+	},
+	{
+		"LABEL": "0x593E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's just a normal day, I guess."
+	},
+	{
+		"LABEL": "0x5999",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho and Yukimaru are here as usual... nothing has changed, it was just a normal day."
+	},
+	{
+		"LABEL": "0x5AA8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x5AB6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Just as usual, is it?\""
+	},
+	{
+		"LABEL": "0x5C29",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x5C37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah... if you think so, then that must certainly be a good thing. Nothing has changed... and nothing is missing.\""
+	},
+	{
+		"LABEL": "0x5DFE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x5E0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Then surely... that's a good thing, right?\""
+	},
+	{
+		"LABEL": "0x5EED",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─? What are you talking about all of a sudden, Tsykho?"
+	},
+	{
+		"LABEL": "0x5FDA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x5FE8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't mind me, I'm just talking to myself.\""
+	},
+	{
+		"LABEL": "0x616B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x6179",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Come on, let's go home. I'm going to go make dinner again today!\""
+	},
+	{
+		"LABEL": "0x6276",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah─Aaah. Yes, that's right."
+	},
+	{
+		"LABEL": "0x62B9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm looking forward to Tsykho's handmade cooking."
+	},
+	{
+		"LABEL": "0x63A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x63B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Fufu, I'll be working hard on it, so please look forward to it!\""
+	},
+	{
+		"LABEL": "0x64A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I stared at Tsykho from the side as she smiles."
+	},
+	{
+		"LABEL": "0x64F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Tsykho, my girlfriend who only becomes a \"girl\" in front of me."
+	},
+	{
+		"LABEL": "0x6553",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If Tsykho hadn't told me how much she liked me, we wouldn't be in this situation right now..."
+	},
+	{
+		"LABEL": "0x666E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x667C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hmm? What's wrong, Metarou-kun?\""
+	},
+	{
+		"LABEL": "0x6756",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho peers into my face with a scowl."
+	},
+	{
+		"LABEL": "0x679A",
+		"CMD": "SELECT2",
+		"COUNT_TYPE": 0,
+		"LIST": [
+			{
+				"UNK0": 1,
+				"ID": 2,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x67CF",
+				"STRING": "I like you, Tsykho."
+			},
+			{
+				"UNK0": 1,
+				"ID": 3,
+				"UNK1": 2,
+				"JUMP_TO_LABEL": "0x67CF",
+				"STRING": "I love you."
+			}
+		]
+	},
+	{
+		"LABEL": "0x68A9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x68B7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......Fuweeh?\""
+	},
+	{
+		"LABEL": "0x6A24",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x6A32",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, a... ho-hold up, Metarou-kun...! It's not fair to say that out of the blue...!\""
+	},
+	{
+		"LABEL": "0x6B3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Tsykho's face turns so red, it can't be compared to this morning."
+	},
+	{
+		"LABEL": "0x6B9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Seeing her like that makes me love her even more."
+	},
+	{
+		"LABEL": "0x6BFB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Without thinking, I hugged Tsykho."
+	},
+	{
+		"LABEL": "0x6D0A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x6D18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......ah...... Metarou...kun...\""
+	},
+	{
+		"LABEL": "0x6DF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I love you, Tsykho."
+	},
+	{
+		"LABEL": "0x6E34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This morning Tsykho said she wouldn't let me go... but truth is, I don't want to leave her either."
+	},
+	{
+		"LABEL": "0x6EB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's not the only one who doesn't want to let go of her partner.."
+	},
+	{
+		"LABEL": "0x6F22",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I told her."
+	},
+	{
+		"LABEL": "0x6F69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "When it comes to your affections, you've got to express it properly."
+	},
+	{
+		"LABEL": "0x70AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The one I love hugs me, he whispers his love to me."
+	},
+	{
+		"LABEL": "0x7112",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Every word of it is what I've been waiting for, more than anything else in the world."
+	},
+	{
+		"LABEL": "0x717D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He brings rain to my parched heart."
+	},
+	{
+		"LABEL": "0x71D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He fills me up."
+	},
+	{
+		"LABEL": "0x7211",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can feel his love for me."
+	},
+	{
+		"LABEL": "0x7260",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Ah, I'm so, so happy."
+	},
+	{
+		"LABEL": "0x72AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can't believe we can be together like this from the very beginning."
+	},
+	{
+		"LABEL": "0x732A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's like a dream.... No, maybe it really is a dream."
+	},
+	{
+		"LABEL": "0x738F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But, that's okay."
+	},
+	{
+		"LABEL": "0x73D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because what's important is not there─but only the scene that is in front of us right now."
+	},
+	{
+		"LABEL": "0x7497",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Before I knew it this scarred Muscari's wounds have been healed."
+	},
+	{
+		"LABEL": "0x7504",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The \"I\" that was self-absorbed, solitary, and seeking only her one true love... as soon as that was fulfilled, \"I\" have become a very normal human being."
+	},
+	{
+		"LABEL": "0x75B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "An ordinary existence, just a maiden in love."
+	},
+	{
+		"LABEL": "0x7606",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...If there was \"someone\" watching this scene, what would they think when they saw the normal me?"
+	},
+	{
+		"LABEL": "0x76A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Would they be disappointed? Let down? Or maybe, sympathetic... \"I'm glad you're happy\", like that?"
+	},
+	{
+		"LABEL": "0x771A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't know anymore─but it doesn't matter anymore."
+	},
+	{
+		"LABEL": "0x7785",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure that \"someone\" watching us doesn't exist, and even if they did, I wouldn't know."
+	},
+	{
+		"LABEL": "0x780A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It just crossed my mind for some reason, that's all."
+	},
+	{
+		"LABEL": "0x786F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yes, I'm happy."
+	},
+	{
+		"LABEL": "0x78B6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because my \"everything\" is looking at me─"
+	},
+	{
+		"LABEL": "0x7923",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So there's nowhere I'd be happier."
+	},
+	{
+		"LABEL": "0x797A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I mean─"
+	},
+	{
+		"LABEL": "0x7A11",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x7A1F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yes, I like you, too. I love you.\""
+	},
+	{
+		"LABEL": "0x7A9A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x7AA8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I love you, more than anyone else in this world...\""
+	},
+	{
+		"LABEL": "0x7B13",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x7B21",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I am the happiest girl in the world to have you all to myself.\""
+	},
+	{
+		"LABEL": "0x7B86",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Because the Muscari who was full of scars─has already become the Muscari who was loved."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "IF-END「Beloved Muscari」"
+	},
+	{
+		"LABEL": "0x7D76",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The number I rolled was─"
+	},
+	{
+		"LABEL": "0x7DB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%Z2."
+	},
+	{
+		"LABEL": "0x7E93",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x7EA3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"2, I see.\""
+	},
+	{
+		"LABEL": "0x7F6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just want to know what possibilities lie in store for that girl."
+	},
+	{
+		"LABEL": "0x8064",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x8074",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A jealous girl with an unfulfilled longing who, in despair, wished for the ruin of others.\""
+	},
+	{
+		"LABEL": "0x820D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x821D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wonder what kind of potential had been lying in that girl?\""
+	},
+	{
+		"LABEL": "0x83AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0x83BC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well then, close your eyes.\""
+	},
+	{
+		"LABEL": "0x858F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One morning, in the corner of the classroom."
+	},
+	{
+		"LABEL": "0x85D4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sitting at my desk reading a light novel, like I always do."
+	},
+	{
+		"LABEL": "0x862F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Whew... This latest issue is a real winner. I was scared to buy the book based on the cover alone, but it was the right decision."
+	},
+	{
+		"LABEL": "0x86A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The protagonist lives with four other girls. One day, they go to the cellar for food... It's the most interesting story I've ever read."
+	},
+	{
+		"LABEL": "0x876C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's got more than a couple of twists; when one is revealed, you'll see the previous parts in a completely new light."
+	},
+	{
+		"LABEL": "0x87E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's seriously awesome... I need to spread the word about this."
+	},
+	{
+		"LABEL": "0x88DB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x88E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's up, Metarou? You're reading yet another light novel again today.\""
+	},
+	{
+		"LABEL": "0x89DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And then, my childhood friend, Yukimaru, strikes a conversation with me."
+	},
+	{
+		"LABEL": "0x8A34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You've come at the right time, Yukimaru. There's this thing I want to talk to you about..."
+	},
+	{
+		"LABEL": "0x8B33",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8B41",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, yes, yes. You're gonna say 'Buy this new issue〜' again, aren't you?\""
+	},
+	{
+		"LABEL": "0x8C3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha... are you an esper?"
+	},
+	{
+		"LABEL": "0x8D1E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8D2C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You've said the same thing time and time again, of course I can read your mind.\""
+	},
+	{
+		"LABEL": "0x8EB5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x8EC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But that's not the point here! I've got big news!\""
+	},
+	{
+		"LABEL": "0x8FBD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Big news...?"
+	},
+	{
+		"LABEL": "0x909E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x90AC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Listen and be amazed...\""
+	},
+	{
+		"LABEL": "0x9239",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x9247",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Shit, it's the bell...\""
+	},
+	{
+		"LABEL": "0x93BA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x93C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh well, you'll find out soon enough anyway! See you later!\""
+	},
+	{
+		"LABEL": "0x94E4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After saying that, Yukimaru went back to his seat. What energy even in morning."
+	},
+	{
+		"LABEL": "0x954D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The teacher comes in and homeroom begins."
+	},
+	{
+		"LABEL": "0x95A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hmm...?"
+	},
+	{
+		"LABEL": "0x95D7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "An unfamiliar woman is standing next to the teacher."
+	},
+	{
+		"LABEL": "0x96CF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor"
+	},
+	{
+		"LABEL": "0x96DD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Starting from today, we have a new temporary teaching assistant. She'll be observing everyone's classes, so be nice to her.\""
+	},
+	{
+		"LABEL": "0x9816",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0x9828",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"My name is Scykoe, and I'll be working in this class as a teacher-in-training starting from today.\""
+	},
+	{
+		"LABEL": "0x99CD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0x99DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Until my last day here, I'm hoping to get to know you all a lot.\""
+	},
+	{
+		"LABEL": "0x9B76",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0x9B88",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I know I'm not the best, but please take care of me.\""
+	},
+	{
+		"LABEL": "0x9C7E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What a beautiful person... A prim and proper sort of beauty, I should say."
+	},
+	{
+		"LABEL": "0x9CCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Not only the boys but even the girls gasped at her beauty."
+	},
+	{
+		"LABEL": "0x9D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see, so this was what Yukimaru was talking about?"
+	},
+	{
+		"LABEL": "0x9D87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I get excited at the thought that from today, I'm going to be spending time in the company of such a beautiful woman."
+	},
+	{
+		"LABEL": "0x9EA4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0x9EB6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......\""
+	},
+	{
+		"LABEL": "0xA01D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xA02F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......!\""
+	},
+	{
+		"LABEL": "0xA0F9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My eyes met with Scykoe-sensei's."
+	},
+	{
+		"LABEL": "0xA1C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She laughed a bit and then quickly returned to her normal expression."
+	},
+	{
+		"LABEL": "0xA22B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Wha... what was that just now...?"
+	},
+	{
+		"LABEL": "0xA26E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm just an otaku, I'm going to get the wrong idea about that, so please don't tease me... huh?"
+	},
+	{
+		"LABEL": "0xA2FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I thought about it some more when a memory surfaced within me."
+	},
+	{
+		"LABEL": "0xA35B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZI remembered hearing the name \"Scykoe\" before."
+	},
+	{
+		"LABEL": "0xA3B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That was─ well, when I was still a little kid... I often played with an older girl in the neighborhood."
+	},
+	{
+		"LABEL": "0xA439",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Eventually, she moved away, but she made a promise to me."
+	},
+	{
+		"LABEL": "0xA4A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZShe said, \"When I grow up, I'll become a teacher and teach Mecchan how to study.\""
+	},
+	{
+		"LABEL": "0xA521",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That person's name was if I remember correctly..."
+	},
+	{
+		"LABEL": "0xA568",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Scykoe, that's her name."
+	},
+	{
+		"LABEL": "0xA747",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xA759",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Correct. You properly remembered me after all these years, didn't you, Mecchan?\""
+	},
+	{
+		"LABEL": "0xA84D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Lunchtime. In the staff room."
+	},
+	{
+		"LABEL": "0xA892",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was summoned by Scykoe-oneechan... I mean, Scykoe-sensei to have a friendly chat with her."
+	},
+	{
+		"LABEL": "0xA909",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was really surprised... Sensei, you come out of nowhere."
+	},
+	{
+		"LABEL": "0xAA06",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xAA18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Heehee, I thought I'd surprise you a bit.\""
+	},
+	{
+		"LABEL": "0xABA3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xABB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"And yet... You haven't changed at all. You're still the same as I remember.\""
+	},
+	{
+		"LABEL": "0xACB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What are you talking about...? Can't you see I've grown up properly?"
+	},
+	{
+		"LABEL": "0xADB2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xADC4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if that's true? Next time, I'll have to check it out... various things, if you know what I mean.\""
+	},
+	{
+		"LABEL": "0xAECA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Scykoe-sensei smiled bewitchingly for a moment."
+	},
+	{
+		"LABEL": "0xAF1D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Oh, ooh... Please stop, it's too stimulating for an otaku like me..."
+	},
+	{
+		"LABEL": "0xAF80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I cough as I switch the topic."
+	},
+	{
+		"LABEL": "0xAFCD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyway... your dream came true, didn't it, Sensei?"
+	},
+	{
+		"LABEL": "0xB022",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're so amazing, Scykoe-oneechan."
+	},
+	{
+		"LABEL": "0xB10B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB11D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Not at all, in fact, I'm just getting started.\""
+	},
+	{
+		"LABEL": "0xB2A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB2B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because I'm still an intern... and...\""
+	},
+	{
+		"LABEL": "0xB437",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB449",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I can't really say I've made it happen until I've taught Mecchan how to study properly.\""
+	},
+	{
+		"LABEL": "0xB5F4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB606",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So, Mecchan, can you wait just a little longer?\""
+	},
+	{
+		"LABEL": "0xB6FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Of course, I'll wait for you."
+	},
+	{
+		"LABEL": "0xB7EF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB801",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, thanks, Mecchan!\""
+	},
+	{
+		"LABEL": "0xB8F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The bell has rung, I'd better get back now..."
+	},
+	{
+		"LABEL": "0xB9E8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xB9FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Bye Mecchan, I'll see you later. You have to work hard in class this afternoon too, okay?\""
+	},
+	{
+		"LABEL": "0xBAFA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know, I know, I'll see you later, Sensei."
+	},
+	{
+		"LABEL": "0xBB4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so I left the staff room."
+	},
+	{
+		"LABEL": "0xBC6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...A boy named Metarou left the staff room."
+	},
+	{
+		"LABEL": "0xBCC9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After making sure that the door to the staff room was completely shut, I called out to \"her\"."
+	},
+	{
+		"LABEL": "0xBD50",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xBD5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Scykoe.\""
+	},
+	{
+		"LABEL": "0xBD9E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My best friend, my rival."
+	},
+	{
+		"LABEL": "0xBDE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The person... I envied the most in the world."
+	},
+	{
+		"LABEL": "0xBED7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xBEE9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Kasane...\""
+	},
+	{
+		"LABEL": "0xBFB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know, I know, I'll see you later, Sensei."
+	},
+	{
+		"LABEL": "0xC004",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so I left the staff room."
+	},
+	{
+		"LABEL": "0xC06C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xC07A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Was that the kid you're always talking about just now?\""
+	},
+	{
+		"LABEL": "0xC15B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xC16D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, Mecchan. He's serious, caring... and a very, very sweet boy. Isn't he cute?\""
+	},
+	{
+		"LABEL": "0xC292",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xC2A0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You really think so? He's not really my type.\""
+	},
+	{
+		"LABEL": "0xC39D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xC3AF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ara, what a shame, but that's okay. I wouldn't be too happy if Mecchan was taken away by you, Kasane.\""
+	},
+	{
+		"LABEL": "0xC4D0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xC4DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I guess so.\""
+	},
+	{
+		"LABEL": "0xC520",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Just because he not my type isn't a reason not to try."
+	},
+	{
+		"LABEL": "0xC585",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Really, I should try to tempt him just once."
+	},
+	{
+		"LABEL": "0xC5D8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder what kind of expression would be on Scykoe's face if I took him away from her, I'm quite curious about that."
+	},
+	{
+		"LABEL": "0xC643",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Well... having said that, it's not like I'm going to be serious at all."
+	},
+	{
+		"LABEL": "0xC732",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Scykoe and I, who shared the same dream of being a \"Teacher\", both of us were visiting this school as interns."
+	},
+	{
+		"LABEL": "0xC7B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At one point, I even tried to get off this stage."
+	},
+	{
+		"LABEL": "0xC812",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Scykoe was a perfect woman, which made me feel inferior when I was standing next to her."
+	},
+	{
+		"LABEL": "0xC88F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It was... difficult to say the least."
+	},
+	{
+		"LABEL": "0xC8E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't set out to be a teacher only to have such painful feelings."
+	},
+	{
+		"LABEL": "0xC94F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was jealous, I was envious, I was alienated."
+	},
+	{
+		"LABEL": "0xC9A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's strange that I'm the only one who has to feel this way."
+	},
+	{
+		"LABEL": "0xCA09",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So─I thought... that I should just disappear off to somewhere."
+	},
+	{
+		"LABEL": "0xCA6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─But then."
+	},
+	{
+		"LABEL": "0xCAA5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One day, I had a sudden thought."
+	},
+	{
+		"LABEL": "0xCAF4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Is this what I wanted?"
+	},
+	{
+		"LABEL": "0xCB31",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's true that I'm an inferior person, and that I may be a worthless, abnormal existence."
+	},
+	{
+		"LABEL": "0xCBA6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But just because it's true... does that mean it's enough of a reason for me to get off the stage?"
+	},
+	{
+		"LABEL": "0xCC19",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's just \"fleeing from reality.\""
+	},
+	{
+		"LABEL": "0xCC6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Why should I give in? It's the world that's wrong."
+	},
+	{
+		"LABEL": "0xCCDB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had a 'dream' and that's why I was working so hard."
+	},
+	{
+		"LABEL": "0xCD36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If even that's lost, I've got nothing left."
+	},
+	{
+		"LABEL": "0xCD99",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": ".......I didn't want to lose."
+	},
+	{
+		"LABEL": "0xCDE4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't mind losing to Scykoe. I'm no match for her, I know that much."
+	},
+	{
+		"LABEL": "0xCE5B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's perfect, so even if she looks down on me in her heart... that's okay."
+	},
+	{
+		"LABEL": "0xCECA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I didn't want to lose to myself."
+	},
+	{
+		"LABEL": "0xCF15",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I remained on the stage."
+	},
+	{
+		"LABEL": "0xCF5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And so now, here I am."
+	},
+	{
+		"LABEL": "0xCFA9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even if it's hard, even if it's painful, I'm going to achieve my dream."
+	},
+	{
+		"LABEL": "0xD010",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD01E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well, I'd better get going.\""
+	},
+	{
+		"LABEL": "0xD083",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD091",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You'll have to properly introduce him to me next time.\""
+	},
+	{
+		"LABEL": "0xD184",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xD196",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, of course.\""
+	},
+	{
+		"LABEL": "0xD268",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I had just packed up my stuff and was about to leave the staff room."
+	},
+	{
+		"LABEL": "0xD36B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xD37D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Kasane!\""
+	},
+	{
+		"LABEL": "0xD449",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Scykoe called me to stop."
+	},
+	{
+		"LABEL": "0xD4A2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD4B0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...What is it?\""
+	},
+	{
+		"LABEL": "0xD58B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xD59D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I'm happy to have made it this far with you, Kasane.\""
+	},
+	{
+		"LABEL": "0xD724",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xD736",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So keep up the good work.\""
+	},
+	{
+		"LABEL": "0xD825",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD833",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"............\""
+	},
+	{
+		"LABEL": "0xD882",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD890",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yeah, I know.\""
+	},
+	{
+		"LABEL": "0xD8E7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xD8F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You too.\""
+	},
+	{
+		"LABEL": "0xDA18",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Having answered thus, I headed to the classroom."
+	},
+	{
+		"LABEL": "0xDA65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......Excuse me!\""
+	},
+	{
+		"LABEL": "0xDAA6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "While I was walking down the hallway, someone spoke to me."
+	},
+	{
+		"LABEL": "0xDB03",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I turned around. Then..."
+	},
+	{
+		"LABEL": "0xDB46",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Here, you dropped this.\""
+	},
+	{
+		"LABEL": "0xDB8B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The boy... Metarou-kun, was standing there with my pen case in his hand."
+	},
+	{
+		"LABEL": "0xDC04",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xDC12",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Ara, thank you.\""
+	},
+	{
+		"LABEL": "0xDC6E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I tried my best to pretend I didn't know him, and said thank you."
+	},
+	{
+		"LABEL": "0xDCD5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xDCE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Class is about to start, why are you still here?\""
+	},
+	{
+		"LABEL": "0xDD4F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Actually, the teacher gave me some errands to do... I'm on day duty today.\""
+	},
+	{
+		"LABEL": "0xDDCA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xDDD8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I see. Well, then you'd better get going.\""
+	},
+	{
+		"LABEL": "0xDE42",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I will.\""
+	},
+	{
+		"LABEL": "0xDE7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The conversation over, it looked like he was going to walk away."
+	},
+	{
+		"LABEL": "0xDED2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But for some reason, Metarou-kun stayed there, staring at me intently."
+	},
+	{
+		"LABEL": "0xDF51",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xDF5F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...What is it?\""
+	},
+	{
+		"LABEL": "0xDFA1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah, no, that... Um, Sensei, are you also an intern working here?\""
+	},
+	{
+		"LABEL": "0xE016",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xE024",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, I'm in charge of a different class than your class.\""
+	},
+	{
+		"LABEL": "0xE08E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is that so, I see...\""
+	},
+	{
+		"LABEL": "0xE0E7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xE0F5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Is that all?\""
+	},
+	{
+		"LABEL": "0xE139",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No... well, you know, it's funny that I'm talking about this to someone I just met.\""
+	},
+	{
+		"LABEL": "0xE1B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"When I see people like you actually working hard like this, I just think it's amazing.\""
+	},
+	{
+		"LABEL": "0xE23B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xE249",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......Eh?\""
+	},
+	{
+		"LABEL": "0xE28D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Actually, I know someone who is also working here as a teaching assistant.\""
+	},
+	{
+		"LABEL": "0xE2F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I realized that person has worked so hard to get to where they are today... and I thought that was amazing.\""
+	},
+	{
+		"LABEL": "0xE375",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I don't really have any dreams, I honestly don't know how to get serious about anything or how to work hard...\""
+	},
+	{
+		"LABEL": "0xE402",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm sure you've gone through some hardships and setbacks that I can't imagine...\""
+	},
+	{
+		"LABEL": "0xE481",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But from my point of view, you look really cool.\""
+	},
+	{
+		"LABEL": "0xE4DC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I kinda admire it.\""
+	},
+	{
+		"LABEL": "0xE537",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xE545",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\".........\""
+	},
+	{
+		"LABEL": "0xE592",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xE5A0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......Ad...mire?\""
+	},
+	{
+		"LABEL": "0xE5EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes. ...Wait, no, don't get the wrong idea.\""
+	},
+	{
+		"LABEL": "0xE649",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please forget what I just said, Sensei.\""
+	},
+	{
+		"LABEL": "0xE6A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, I have to go now so good luck with your work...!\""
+	},
+	{
+		"LABEL": "0xE707",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He said one-sidedly, and this time he walked away for good."
+	},
+	{
+		"LABEL": "0xE766",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Looking at his back, I remembered Scykoe's words."
+	},
+	{
+		"LABEL": "0xE7D7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Instructor Scykoe"
+	},
+	{
+		"LABEL": "0xE7E9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah, Mecchan. He's serious, caring... and a very, very sweet boy. Isn't he cute?\""
+	},
+	{
+		"LABEL": "0xE863",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ahh... He really is."
+	},
+	{
+		"LABEL": "0xE8A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "He was stupidly serious when he said those sappy words, so he probably really meant it."
+	},
+	{
+		"LABEL": "0xE91B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So... I'm sure I'm an idiot as well for being so affected by those words."
+	},
+	{
+		"LABEL": "0xE9F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Admire, he said."
+	},
+	{
+		"LABEL": "0xEA39",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The fact that he thought that about me, that he felt that way, is fact, is reality..."
+	},
+	{
+		"LABEL": "0xEAC2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xEAD0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...ku, ugh. Aah...\""
+	},
+	{
+		"LABEL": "0xEB1E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─I had always thought I was \"below average\". \"Nothing\"."
+	},
+	{
+		"LABEL": "0xEB79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That I'm someone who can't be anything, a worthless existence."
+	},
+	{
+		"LABEL": "0xEBCC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even so, I've been running and running, eager not to lose to myself."
+	},
+	{
+		"LABEL": "0xEC3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─At the end of it, those words were waiting for me."
+	},
+	{
+		"LABEL": "0xECA8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xECB6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I...!\""
+	},
+	{
+		"LABEL": "0xED05",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Kasane"
+	},
+	{
+		"LABEL": "0xED13",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"At last, have I finally become 'Something'...?\""
+	},
+	{
+		"LABEL": "0xED6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hey, Scykoe."
+	},
+	{
+		"LABEL": "0xEDA8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've always been so jealous of you, so fed up, so envious, that I've wanted you to disappear for years."
+	},
+	{
+		"LABEL": "0xEE2B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But if it weren't for you, I wouldn't have taken it so seriously, to say the least─"
+	},
+	{
+		"LABEL": "0xEEA2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And in that sense, I'm grateful to you for that."
+	},
+	{
+		"LABEL": "0xEF01",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you, Scykoe."
+	},
+	{
+		"LABEL": "Custom12",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "IF-END「Rewarded Rosemary」"
+	},
+	{
+		"LABEL": "0xF0C6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The number I rolled was─"
+	},
+	{
+		"LABEL": "0xF105",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%Z3."
+	},
+	{
+		"LABEL": "0xF1E3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xF1F3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"3, I see.\""
+	},
+	{
+		"LABEL": "0xF2BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I just want to know what possibilities lie in store for that girl."
+	},
+	{
+		"LABEL": "0xF3B4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xF3C4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"A blind girl who gave herself up for the only one she could find.\""
+	},
+	{
+		"LABEL": "0xF54D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xF55D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wonder what kind of potential had been lying in that girl?\""
+	},
+	{
+		"LABEL": "0xF6EC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Misato"
+	},
+	{
+		"LABEL": "0xF6FC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Well then, close your eyes.\""
+	},
+	{
+		"LABEL": "0xF8CF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My name is Metarou."
+	},
+	{
+		"LABEL": "0xF912",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "%ZI'm just a normal second year student attending a private high school."
+	},
+	{
+		"LABEL": "0xF975",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't have any particular skills, and my grades are merely average. I'm one of those people who're lacking in personality and individuality. "
+	},
+	{
+		"LABEL": "0xF9F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Speaking of which, right now my classmates are racking their heads over their career paths after graduation."
+	},
+	{
+		"LABEL": "0xFA67",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We're still second years though. I think it's a bit early to be thinking about our future..."
+	},
+	{
+		"LABEL": "0xFADE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Everyone's studying seriously, and no one is stupid enough to do anything to stand out from the crowd because they're worried about getting a black mark on their school report."
+	},
+	{
+		"LABEL": "0xFB61",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm the same, but I don't think there's any point in thinking about the future."
+	},
+	{
+		"LABEL": "0xFBE0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Anyways I don't even know where to begin to think about the future. Therefore, I'll just live each day as it comes."
+	},
+	{
+		"LABEL": "0xFC47",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Today, tomorrow, and certainly... in the years ahead."
+	},
+	{
+		"LABEL": "0xFC98",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But─yes."
+	},
+	{
+		"LABEL": "0xFCD5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even though I live life in a half-assed way, it doesn't mean it's a boring life."
+	},
+	{
+		"LABEL": "0xFD52",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "？？？"
+	},
+	{
+		"LABEL": "0xFD62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Me-tarou!\""
+	},
+	{
+		"LABEL": "0xFDA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Someone taps me on the shoulder, calling my name in a cheerful voice."
+	},
+	{
+		"LABEL": "0xFE0D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Hearing her voice, I couldn't help but smile."
+	},
+	{
+		"LABEL": "0xFE62",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Slowly, I turned around, and there was─"
+	},
+	{
+		"LABEL": "0xFF5A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0xFF68",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Good morning, Metarou.\""
+	},
+	{
+		"LABEL": "0x10037",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My beloved girlfriend─Psico, was standing there smiling."
+	},
+	{
+		"LABEL": "0x1016B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─A long time ago, when we were still very small."
+	},
+	{
+		"LABEL": "0x101BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico once tried to disappear right in front of my eyes..."
+	},
+	{
+		"LABEL": "0x1021B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...in order to close my eyes."
+	},
+	{
+		"LABEL": "0x1025C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "At first I couldn't move as she was about to engulf herself in fire."
+	},
+	{
+		"LABEL": "0x102C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But I didn't want to lose Psico."
+	},
+	{
+		"LABEL": "0x10314",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "So I reached my hand out to Psico."
+	},
+	{
+		"LABEL": "0x1040C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1041A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Eh... Meta...rou? What are you doing?\""
+	},
+	{
+		"LABEL": "0x104F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I don't want to lose you, Psico.\""
+	},
+	{
+		"LABEL": "0x10544",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't disappear right in front of me.\""
+	},
+	{
+		"LABEL": "0x10595",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Didn't you say, we'll be together forever?\""
+	},
+	{
+		"LABEL": "0x10688",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x10696",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─Meta...rou.\""
+	},
+	{
+		"LABEL": "0x107FF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1080D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I... ...don't want to leave... that's why... I want it to stay like this, forever...\""
+	},
+	{
+		"LABEL": "0x10916",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I promise. I'll... never leave you, Psico.\""
+	},
+	{
+		"LABEL": "0x1096F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So please... live, and stay beside me.\""
+	},
+	{
+		"LABEL": "0x10A66",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x10A74",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Really? You'll never... leave me?\""
+	},
+	{
+		"LABEL": "0x10B53",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Of course.\""
+	},
+	{
+		"LABEL": "0x10B8C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Because you're... my everything.\""
+	},
+	{
+		"LABEL": "0x10C7F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x10C8D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...! ...Yes, yes!\""
+	},
+	{
+		"LABEL": "0x10DFA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x10E08",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Me too... Metarou...!\""
+	},
+	{
+		"LABEL": "0x10EE5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After saying that, our hands connected."
+	},
+	{
+		"LABEL": "0x10F34",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In order to never leave each other."
+	},
+	{
+		"LABEL": "0x10F71",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Like an engraving in our hearts, so that we'll always be together─"
+	},
+	{
+		"LABEL": "0x110C2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─And now, the present."
+	},
+	{
+		"LABEL": "0x11101",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Since then, Psico and I lived like normal, grew up like normal, and are now attending the same high school."
+	},
+	{
+		"LABEL": "0x11231",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1123F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ehehe...\""
+	},
+	{
+		"LABEL": "0x11306",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Apparently, Psico is in a good mood today."
+	},
+	{
+		"LABEL": "0x11351",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I wonder if something happened? Let's try asking her."
+	},
+	{
+		"LABEL": "0x11460",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1146E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, I was just thinking how Metarou's by my side today as well.\""
+	},
+	{
+		"LABEL": "0x115FD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1160B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"That's what's making me so happy.\""
+	},
+	{
+		"LABEL": "0x11782",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x11790",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The days I took for granted are so important to me now.\""
+	},
+	{
+		"LABEL": "0x1188F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She says that and grabs my arm."
+	},
+	{
+		"LABEL": "0x11986",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x11994",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I love you, Metarou.\""
+	},
+	{
+		"LABEL": "0x11A67",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My girlfriend's such a sweetheart, and I love her so much."
+	},
+	{
+		"LABEL": "0x11AB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The warmth that is transmitted to my arm is unmistakably that of a living person."
+	},
+	{
+		"LABEL": "0x11B23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For some reason─I can't help it, but I feel like I'm going to cry."
+	},
+	{
+		"LABEL": "0x11C49",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x11C57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou, Psico-chan.\""
+	},
+	{
+		"LABEL": "0x11D37",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As we were walking, he called out to me from behind."
+	},
+	{
+		"LABEL": "0x11D90",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My childhood friend Yukimaru."
+	},
+	{
+		"LABEL": "0x11E75",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x11E83",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Good morning, Yukimaru.\""
+	},
+	{
+		"LABEL": "0x11FF0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x11FFE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"As usual you two are going at it as soon as the sun rises. Go die in a fire.\""
+	},
+	{
+		"LABEL": "0x12194",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x121A2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Heehee, are you jealous?\""
+	},
+	{
+		"LABEL": "0x1230F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x1231D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well of course. How could anyone not be jealous of being able to go to school in the morning with a beauty in hand like Psico-chan?\""
+	},
+	{
+		"LABEL": "0x124D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x124E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Really, I don't know what you like about this dull guy.\""
+	},
+	{
+		"LABEL": "0x125D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You're annoying, get lost."
+	},
+	{
+		"LABEL": "0x126B5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x126C3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Heehee, well that's the thing, Yukimaru. It's because Metarou and I, we'll alwaaaaays be together.\""
+	},
+	{
+		"LABEL": "0x12868",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x12876",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It always has been, and always will be... right?\""
+	},
+	{
+		"LABEL": "0x129F1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x129FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Right, Metarou?\""
+	},
+	{
+		"LABEL": "0x12AC8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Ah, that's right."
+	},
+	{
+		"LABEL": "0x12BA5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x12BB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What's up with that? That didn't sound like an answer to me. And please don't finish each other's sentences."
+	},
+	{
+		"LABEL": "0x12D61",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x12D6F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, that's how it is. More importantly, come on, let's get going, we're going to be late.\""
+	},
+	{
+		"LABEL": "0x12F04",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Yukimaru"
+	},
+	{
+		"LABEL": "0x12F12",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh man, it's already this late? Let's go, you two!\""
+	},
+	{
+		"LABEL": "0x13021",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Yukimaru runs, looking flustered."
+	},
+	{
+		"LABEL": "0x13072",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "As if following his lead, Psico withdrew her hand from mine."
+	},
+	{
+		"LABEL": "0x1318F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1319D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Let's go, Metarou. Together... okay?\""
+	},
+	{
+		"LABEL": "0x1327E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I looked her firmly in the eye─and nodded, laughing."
+	},
+	{
+		"LABEL": "0x133FF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─After school."
+	},
+	{
+		"LABEL": "0x13438",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico and I left school and went to visit a place."
+	},
+	{
+		"LABEL": "0x13499",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's a special place for the two of us."
+	},
+	{
+		"LABEL": "0x134EC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Our paradise."
+	},
+	{
+		"LABEL": "0x13529",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The ruin that we called a paradise welcomes us again today."
+	},
+	{
+		"LABEL": "0x1358A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now that we're grown up, we still keep coming back here."
+	},
+	{
+		"LABEL": "0x135EF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Why? I don't exactly understand the reason myself."
+	},
+	{
+		"LABEL": "0x1363A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm sure that by doing this, we are affirming each other."
+	},
+	{
+		"LABEL": "0x136A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A reminder to never leave each other's presence."
+	},
+	{
+		"LABEL": "0x1379D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x137AB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Today was tiring too, right, Metarou?\""
+	},
+	{
+		"LABEL": "0x13920",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1392E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why is school so tiring?\""
+	},
+	{
+		"LABEL": "0x13AB5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x13AC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's the same thing over and over again, with no change at all.\""
+	},
+	{
+		"LABEL": "0x13C58",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x13C66",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But... I wonder why? This... makes me feel so very happy.\""
+	},
+	{
+		"LABEL": "0x13D69",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With that, Psico smiles at me."
+	},
+	{
+		"LABEL": "0x13DB8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That smile is really endearing..."
+	},
+	{
+		"LABEL": "0x13EA5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x13EB3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"─Hey, Metarou.\""
+	},
+	{
+		"LABEL": "0x13F80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico called out my name."
+	},
+	{
+		"LABEL": "0x14067",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14075",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm so happy right now.\""
+	},
+	{
+		"LABEL": "0x141F0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x141FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I was able to be Metarou's number one, and Metarou looks at me and me only...\""
+	},
+	{
+		"LABEL": "0x14399",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x143A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm truly happy to be alive and by your side.\""
+	},
+	{
+		"LABEL": "0x1453E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x1454C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Heh heh, isn't this funny?\""
+	},
+	{
+		"LABEL": "0x14627",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's not true, because... I feel the same way."
+	},
+	{
+		"LABEL": "0x14680",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "What Psico was feeling, I felt it too."
+	},
+	{
+		"LABEL": "0x146D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I'm so glad you're alive and we can spend time together like this. It's an unbearable happiness."
+	},
+	{
+		"LABEL": "0x14742",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That was the right thing to do... Yes, I thought so."
+	},
+	{
+		"LABEL": "0x1479B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─It's just a day like usual. Every day, nothing changes."
+	},
+	{
+		"LABEL": "0x147EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "We will live life naturally, and we will die naturally."
+	},
+	{
+		"LABEL": "0x1484D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This is good, this is what I wanted."
+	},
+	{
+		"LABEL": "0x1489A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I don't need a dramatic story."
+	},
+	{
+		"LABEL": "0x148E1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "For example, if there was a future... in which I, who was unable to save Psico at that time, became obsessed with delusions and broke down."
+	},
+	{
+		"LABEL": "0x1497E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That would have ended in madness, I'm sure."
+	},
+	{
+		"LABEL": "0x149D7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But that didn't happen to \"me\"."
+	},
+	{
+		"LABEL": "0x14A26",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Psico is indeed alive, and she's still standing next to me."
+	},
+	{
+		"LABEL": "0x14A87",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─And that's enough for me."
+	},
+	{
+		"LABEL": "0x14B35",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14B43",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, Metarou. I'll always be by your side.\""
+	},
+	{
+		"LABEL": "0x14BBC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14BCA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I won't think about dying and closing your eyes ever again.\""
+	},
+	{
+		"LABEL": "0x14C87",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14C95",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've decided that I'm going to live and be by Metarou's side... forever."
+	},
+	{
+		"LABEL": "0x14D22",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14D30",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So this will be... Our new『Promise』.\""
+	},
+	{
+		"LABEL": "0x14DEF",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14DFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So... hey, Metarou. Shall we make a vow?\""
+	},
+	{
+		"LABEL": "0x14E6C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14E7A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Swear on this clover... That the two of us will live... and be together, forever?\""
+	},
+	{
+		"LABEL": "0x14EEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "─Yes. I promise. I solemnly swear on it."
+	},
+	{
+		"LABEL": "0x14F98",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x14FA6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yes, yes! Always, always─be by my side.\""
+	},
+	{
+		"LABEL": "0x15017",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x15025",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Look only at me.\""
+	},
+	{
+		"LABEL": "0x15082",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x15090",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I too will look only at Metarou. Ehehe.\""
+	},
+	{
+		"LABEL": "0x1514B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x15159",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"From now on, let's live together. I love you, Metarou.\""
+	},
+	{
+		"LABEL": "Custom22",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "IF-END「An Ordinary Clover」"
+	}
+]

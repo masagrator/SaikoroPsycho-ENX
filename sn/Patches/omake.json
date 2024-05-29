@@ -1,0 +1,1580 @@
+[
+	{
+		"LABEL": "0x103",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Now that I'm outside, I arrive at a path covered in stardust."
+	},
+	{
+		"LABEL": "0x15C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A star-shaped stone guides me, shining brightly."
+	},
+	{
+		"LABEL": "0x20B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two girls stand on the road covered in stardust."
+	},
+	{
+		"LABEL": "0x278",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x286",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hey, are you sure you want to go?\""
+	},
+	{
+		"LABEL": "0x2E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x2FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Wouldn't it be better to turn back?\""
+	},
+	{
+		"LABEL": "0x359",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...It's okay."
+	},
+	{
+		"LABEL": "0x394",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I've already decided on what I will do."
+	},
+	{
+		"LABEL": "0x3D5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "This line of thinking is how I escaped the prison."
+	},
+	{
+		"LABEL": "0x444",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x452",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sure, but you'll be lonely.\""
+	},
+	{
+		"LABEL": "0x4B9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x4C7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Thank you... for helping me. It made me happy.\""
+	},
+	{
+		"LABEL": "0x542",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x554",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Take care, and have a nice rest of your day.\""
+	},
+	{
+		"LABEL": "0x5F6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x63D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x64F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...And he goes.\""
+	},
+	{
+		"LABEL": "0x6AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x6BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Sure is.\""
+	},
+	{
+		"LABEL": "0x70B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x71D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Are you sure about this? I won't hold you back. You don't want him to go, do you?\""
+	},
+	{
+		"LABEL": "0x7AC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x7BA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah... but I think this is a good thing!\""
+	},
+	{
+		"LABEL": "0x829",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Sycoe"
+	},
+	{
+		"LABEL": "0x837",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I hope he finds what he's looking for...\""
+	},
+	{
+		"LABEL": "0x8B6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Anemone"
+	},
+	{
+		"LABEL": "0x8C8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Me too. I pray for his safety.\""
+	},
+	{
+		"LABEL": "0x970",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I pass through the road covered in stardust and enter a tunnel."
+	},
+	{
+		"LABEL": "0x9D1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I can only hear the echo of my running footsteps."
+	},
+	{
+		"LABEL": "0xA72",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two girls stand in the tunnel."
+	},
+	{
+		"LABEL": "0xAD9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Jasmine"
+	},
+	{
+		"LABEL": "0xAEB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Hi. Are you ready to accept the truth?\""
+	},
+	{
+		"LABEL": "0xB56",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0xB64",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Are you sure you want to go? Is it really okay?\""
+	},
+	{
+		"LABEL": "0xBC6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Hey."
+	},
+	{
+		"LABEL": "0xBFD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "You shouldn't stop me."
+	},
+	{
+		"LABEL": "0xC3A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Even I know that."
+	},
+	{
+		"LABEL": "0xCA3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0xCB1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Okay. If that's what you want, I won't stop you.\""
+	},
+	{
+		"LABEL": "0xD28",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0xD36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Let's meet again somewhere! We can have a million congratulatory toasts together!\""
+	},
+	{
+		"LABEL": "0xDBD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Jasmine"
+	},
+	{
+		"LABEL": "0xDCF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Have a nice day. And please, stay healthy.\""
+	},
+	{
+		"LABEL": "0xE7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0xEC4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0xED2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...He's gone.\""
+	},
+	{
+		"LABEL": "0xF2B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Jasmine"
+	},
+	{
+		"LABEL": "0xF3D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, he looked very... determined.\""
+	},
+	{
+		"LABEL": "0xFAA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0xFB8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Do you think he can save her?\""
+	},
+	{
+		"LABEL": "0x1017",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Jasmine"
+	},
+	{
+		"LABEL": "0x1029",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's okay - I know him.\""
+	},
+	{
+		"LABEL": "0x108E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Cycoh"
+	},
+	{
+		"LABEL": "0x109C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Alright. If you say so, then it must be fine.\""
+	},
+	{
+		"LABEL": "0x1152",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After passing through the tunnel, I reach a mountain."
+	},
+	{
+		"LABEL": "0x11A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I climb a steep mountain, undeterred by the long road."
+	},
+	{
+		"LABEL": "0x11FE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two girls stand atop the mountain."
+	},
+	{
+		"LABEL": "0x12B1",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x12BF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Um... do you really want to go?\""
+	},
+	{
+		"LABEL": "0x132A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x133C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is this really okay? You won't be able to come back here.\""
+	},
+	{
+		"LABEL": "0x13A6",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I know."
+	},
+	{
+		"LABEL": "0x13DF",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "If I leave here, I will never be able to return."
+	},
+	{
+		"LABEL": "0x1448",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And knowing that, I'm here now."
+	},
+	{
+		"LABEL": "0x14AD",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x14BB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Is that so? It's your choice - I won't stop you.\""
+	},
+	{
+		"LABEL": "0x1544",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x1556",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So good bye. I hope you remember us.\""
+	},
+	{
+		"LABEL": "0x15CB",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x15D9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Ah, right. It may surprise you, but I didn't hate you.\""
+	},
+	{
+		"LABEL": "0x1699",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x16E0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x16EE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, he's gone...\""
+	},
+	{
+		"LABEL": "0x174D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x175F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wonder what will happen to us.\""
+	},
+	{
+		"LABEL": "0x17CC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x17DA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Maybe we'll be gone when, as they say, the train leaves the station.\""
+	},
+	{
+		"LABEL": "0x184D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x185F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Probably.\""
+	},
+	{
+		"LABEL": "0x18AA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x18B8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Moeko, are you having a hard time dealing with it? Are you afraid of disappearing?\""
+	},
+	{
+		"LABEL": "0x192D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x193F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"No, well... I'd be lying if I said I'm not scared.\""
+	},
+	{
+		"LABEL": "0x19C0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x19D2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It might sound strange but... I'm glad he's being sent off.\""
+	},
+	{
+		"LABEL": "0x1A55",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x1A63",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah. We're going to the same place if we're right.\""
+	},
+	{
+		"LABEL": "0x1AEA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Ivy"
+	},
+	{
+		"LABEL": "0x1AFC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...We should head home, Saiko.\""
+	},
+	{
+		"LABEL": "0x1B6B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Saiko"
+	},
+	{
+		"LABEL": "0x1B79",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yes, let's.\""
+	},
+	{
+		"LABEL": "0x1C09",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After descending the mountain, I enter a field filled with red flowers."
+	},
+	{
+		"LABEL": "0x1C5E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Countless flower petals dance in the wind; it's filled with a special fragrance."
+	},
+	{
+		"LABEL": "0x1CC3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two women stand in the field of red flowers."
+	},
+	{
+		"LABEL": "0x1D76",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x1D84",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Are you going to stop her?\""
+	},
+	{
+		"LABEL": "0x1DE7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x1DF9",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haha, I wonder if you can even do that.\""
+	},
+	{
+		"LABEL": "0x1E65",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The question isn't whether I can do it or not."
+	},
+	{
+		"LABEL": "0x1EAA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "It's..."
+	},
+	{
+		"LABEL": "0x1EE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I have to try."
+	},
+	{
+		"LABEL": "0x1F4A",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x1F58",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"You're certainly in a good mood. You might be ready now.\""
+	},
+	{
+		"LABEL": "0x1FD5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x1FE3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Well, do you best. Your teacher is rooting for you.\""
+	},
+	{
+		"LABEL": "0x2058",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x206A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wish you luck. I hope your hard work will be rewarded at the end of the story.\""
+	},
+	{
+		"LABEL": "0x2134",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x217B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x218D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"He's gone, isn't he?\""
+	},
+	{
+		"LABEL": "0x21EA",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x21F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah. He went to save her... someone he loves.\""
+	},
+	{
+		"LABEL": "0x226B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x227D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I feel relieved. It feels like a weight has been lifted off my shoulders.\""
+	},
+	{
+		"LABEL": "0x22FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x230C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Really? I thought you wanted to stop him.\""
+	},
+	{
+		"LABEL": "0x2391",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x23A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Not really. But when I thought about his sorry fate, I can't help but think of it as someone else's problem.\""
+	},
+	{
+		"LABEL": "0x2440",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x244E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's the same for you, isn't it? Teachers know these things.\""
+	},
+	{
+		"LABEL": "0x24C9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x24DB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"So you understand? Hehe... I like to watch people worry.\""
+	},
+	{
+		"LABEL": "0x2562",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Scykoe"
+	},
+	{
+		"LABEL": "0x2570",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"How troublesome. Would you like to get along from now on?\""
+	},
+	{
+		"LABEL": "0x25E9",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Daffodil"
+	},
+	{
+		"LABEL": "0x25FB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Sure, I'd be happy to.\""
+	},
+	{
+		"LABEL": "0x269D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After passing through the red flower garden, I enter a white flower garden."
+	},
+	{
+		"LABEL": "0x26F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "White flowers are blooming like the red flowers just now. It's a fantastic sight."
+	},
+	{
+		"LABEL": "0x2769",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Two girls stand in the field of white flowers."
+	},
+	{
+		"LABEL": "0x281C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x282A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Ah... Are you going now?\""
+	},
+	{
+		"LABEL": "0x2889",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x289B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Kyaha. You're going to see her, huh?\""
+	},
+	{
+		"LABEL": "0x28F7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "There's no time to mourn our separation."
+	},
+	{
+		"LABEL": "0x2944",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I... feel I have to meet her."
+	},
+	{
+		"LABEL": "0x29A1",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "That's why I've come this far."
+	},
+	{
+		"LABEL": "0x29FE",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2A0C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Yeah. You're determined... I can't stop you now.\""
+	},
+	{
+		"LABEL": "0x2A83",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2A91",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Goodbye. We were together a short time... though I think it was a rich and decent time.\""
+	},
+	{
+		"LABEL": "0x2B18",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x2B2A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Big brother, do your best! Mihomi is rooting for you.\""
+	},
+	{
+		"LABEL": "0x2BDE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x2C25",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2C33",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"He's gone......\""
+	},
+	{
+		"LABEL": "0x2C8E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x2CA0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I don't think he'll ever come back.\""
+	},
+	{
+		"LABEL": "0x2D07",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x2D19",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Oh, he's definitely going to help that girl. Mihomi knows!\""
+	},
+	{
+		"LABEL": "0x2DA6",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2DB4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I should have sent him off...\""
+	},
+	{
+		"LABEL": "0x2E21",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x2E33",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Why? That's not true! I should have done it.\""
+	},
+	{
+		"LABEL": "0x2EB2",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2EC0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Things that don't matter to him... are important to me.\""
+	},
+	{
+		"LABEL": "0x2F49",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Psico"
+	},
+	{
+		"LABEL": "0x2F57",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It was an irreplaceable time... I won't forget it.\""
+	},
+	{
+		"LABEL": "0x2FC8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Hydrangea"
+	},
+	{
+		"LABEL": "0x2FDA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I can't forget him. I'm sure he took care of you, too, Psico.\""
+	},
+	{
+		"LABEL": "0x30A8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After passing through the white flower garden, I arrive in Children's Limbo."
+	},
+	{
+		"LABEL": "0x3103",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A bumpy gravel road. Here and there, there are piles of stones that look like they were piled up by someone."
+	},
+	{
+		"LABEL": "0x317C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "A girl stands by the riverside, holding a cat."
+	},
+	{
+		"LABEL": "0x3235",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3243",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I've been waiting for you. I thought you would come soon.\""
+	},
+	{
+		"LABEL": "0x32B5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Thank you. The time I spent with you was a mundane happiness."
+	},
+	{
+		"LABEL": "0x331C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Although you knew it was a fiction, you stayed by my side."
+	},
+	{
+		"LABEL": "0x3395",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x33A3",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I wish I could have stayed with you forever...\""
+	},
+	{
+		"LABEL": "0x3412",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3420",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I love you. Goodbye.\""
+	},
+	{
+		"LABEL": "0x34BE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "..."
+	},
+	{
+		"LABEL": "0x3505",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x3513",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I ended up putting my feelings on the back burner.\""
+	},
+	{
+		"LABEL": "0x358E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x359C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Speaking selfishly, I wanted to spend eternity with him. Even if this is a world of lies.\""
+	},
+	{
+		"LABEL": "0x3631",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x363F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But it's fine. I hope he finds the path he's looking for.\""
+	},
+	{
+		"LABEL": "0x36D4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Tsykho"
+	},
+	{
+		"LABEL": "0x36E2",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Please do your best, my dear...\""
+	},
+	{
+		"LABEL": "0x378E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "After passing through the riverbed, I keep running."
+	},
+	{
+		"LABEL": "0x37EB",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Finally, I have arrived."
+	},
+	{
+		"LABEL": "0x3886",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "And..."
+	},
+	{
+		"LABEL": "0x38BD",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I see her in a small boat by the river."
+	},
+	{
+		"LABEL": "0x39B7",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x39C5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Metarou...\""
+	},
+	{
+		"LABEL": "0x3A93",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "...Yes."
+	},
+	{
+		"LABEL": "0x3ACA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She's about to get on the ship and leave."
+	},
+	{
+		"LABEL": "0x3B23",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "To the other side of the River Styx..."
+	},
+	{
+		"LABEL": "0x3B6C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Don't die, Nana. Please don't go..."
+	},
+	{
+		"LABEL": "0x3C59",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x3C67",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's not... It's not like that, Metarou.\""
+	},
+	{
+		"LABEL": "0x3D45",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "With her black hair blowing in the wind, she mutters this sadly."
+	},
+	{
+		"LABEL": "0x3DA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Nana, where are you going? ...What happened?"
+	},
+	{
+		"LABEL": "0x3E19",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x3E27",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It's not your time yet, is it?\""
+	},
+	{
+		"LABEL": "0x3E80",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Huh..."
+	},
+	{
+		"LABEL": "0x3F0E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I panic and check the surface of the water."
+	},
+	{
+		"LABEL": "0x3F59",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My reflection on the water's surface..."
+	},
+	{
+		"LABEL": "0x3FA0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My hair has turned white."
+	},
+	{
+		"LABEL": "0x3FED",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "But... why?"
+	},
+	{
+		"LABEL": "0x402E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Have I gone crazy?"
+	},
+	{
+		"LABEL": "0x416C",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x417A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Haven't you noticed? I'm not the one who must cross this river...\""
+	},
+	{
+		"LABEL": "0x4311",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x431F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"The person who must cross and reach the other side... is you.\""
+	},
+	{
+		"LABEL": "0x440B",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x4413",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"......\""
+	},
+	{
+		"LABEL": "0x44EC",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x44FA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Don't be surprised. Did you know? About my role...\""
+	},
+	{
+		"LABEL": "0x468F",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x469D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"My name is Charon. The ferrywoman of this ship.\""
+	},
+	{
+		"LABEL": "0x481E",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Nana"
+	},
+	{
+		"LABEL": "0x482C",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I bring those who lost their lives to the other side.\""
+	},
+	{
+		"LABEL": "0x4914",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I give her a wreath composed of six flowers."
+	},
+	{
+		"LABEL": "0x49A4",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x49B4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"This is...\""
+	},
+	{
+		"LABEL": "0x49F4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Charon, holding the wreath, looks at it lovingly."
+	},
+	{
+		"LABEL": "0x4A6D",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4A7D",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It is as you think. At the end of a long journey, you got... the price for crossing the river. Six love letters.\""
+	},
+	{
+		"LABEL": "0x4B26",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4B36",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...I'm ready. I'll take you across.\""
+	},
+	{
+		"LABEL": "0x4BA5",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4BB5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Come aboard the ship.\""
+	},
+	{
+		"LABEL": "0x4C4B",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "She takes the oars, and begins to row."
+	},
+	{
+		"LABEL": "0x4C96",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "The oars splash against the water."
+	},
+	{
+		"LABEL": "0x4D01",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4D11",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"It must have taken a long time to get here. You must have seen a lot on this journey.\""
+	},
+	{
+		"LABEL": "0x4D94",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4DA4",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"What sort of world did you expect to see at the end of your life?\""
+	},
+	{
+		"LABEL": "0x4E25",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4E35",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Was it fun? Were you happy? ...Was it a story about being saved?\""
+	},
+	{
+		"LABEL": "0x4EA8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x4EB8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Tell me... about it.\""
+	},
+	{
+		"LABEL": "0x4F06",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "My journey was... a strange one."
+	},
+	{
+		"LABEL": "0x4F55",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On one occasion, I visited a big and beautiful house, collecting scattered diaries."
+	},
+	{
+		"LABEL": "0x4FCC",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On another occasion, I had amnesia; I was tricked by three girls."
+	},
+	{
+		"LABEL": "0x5031",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I was also in a fairy tale, wearing a red hood, while walking to my grandmother's house."
+	},
+	{
+		"LABEL": "0x50B0",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x50C0",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...Yes. The happy future you want to see... I won't be there.\""
+	},
+	{
+		"LABEL": "0x513E",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One time, I saved a girl sitting next to me using a time loop."
+	},
+	{
+		"LABEL": "0x51A5",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One day in summer, I returned to a rural town and had a love triangle with two childhood friends."
+	},
+	{
+		"LABEL": "0x521A",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Another time, I noticed that my best friend was of the opposite sex, and I couldn't help but feel lustful."
+	},
+	{
+		"LABEL": "0x5297",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x52A7",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"I'm sure all of those memories were precious for you.\""
+	},
+	{
+		"LABEL": "0x5328",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x5338",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Maybe not for you as you are now. They probably feel like alter egos from your perspective."
+	},
+	{
+		"LABEL": "0x53CA",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In another world, a girl kept me captive; however, she was also in captivity."
+	},
+	{
+		"LABEL": "0x542F",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "On a day where I learned about my life expectancy, an alien granted my wish."
+	},
+	{
+		"LABEL": "0x5492",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "One day, when I was a child, I was ruthlessly bullied by a foul-mouthed kindergartener."
+	},
+	{
+		"LABEL": "0x5515",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x5525",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"...It's almost over.\""
+	},
+	{
+		"LABEL": "0x5580",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x5590",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"Many trials await you on the other shore.\""
+	},
+	{
+		"LABEL": "0x55F8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a certain reality, the flower garden where five girls waited, the ugly flowers of this world bloomed."
+	},
+	{
+		"LABEL": "0x5661",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "In a small white garden, I fought against demons to protect my precious family."
+	},
+	{
+		"LABEL": "0x56D8",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "Charon"
+	},
+	{
+		"LABEL": "0x56E8",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "\"But... it's okay. Now that you've made it this far...\""
+	},
+	{
+		"LABEL": "0x5748",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Let's go see the end of this fake world."
+	},
+	{
+		"LABEL": "0x5797",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "Charon and I are now past the water..."
+	},
+	{
+		"LABEL": "0x57DE",
+		"CMD": "TEXT2",
+		"MESSAGE_TYPE_ID": -1,
+		"STRING": "I stare straight ahead."
+	},
+	{
+		"LABEL": "Custom3",
+		"CMD": "TEXT",
+		"MESSAGE_TYPE_ID": 13,
+		"STRING": "ANOTHER END「Underworld's Bride」"
+	}
+]
